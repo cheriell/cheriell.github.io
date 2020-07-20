@@ -7,4 +7,10 @@ My personal page
 
 [Jekyll - Step by step tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)
 
+debug locally, run:
+
+    jekyll serve
+
+open page at localhost:4000
+
 
