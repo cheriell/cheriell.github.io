@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>Lele Liu - Home</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="./css/bootstrap.min.css">
+        <link rel="stylesheet" href="./css/font-awesome.min.css">
+        <link rel="stylesheet" href="./css/style.css">
+    </head>
+
+    <body>
+        <div class="nav-bar">
+            <div class="nav-wrapper">
+                
+                <div style="text-align:right">
+                    <h1 style="color:white;text-align:left"><em>Lele Liu</em></h1>
+                    <span class="nav" id="nav_1" style="cursor:pointer">Home</span>
+                    <span class="nav" id="nav_2" style="cursor:pointer">Research</span>
+                </div>
+            </div>
+        </div>
+        <div class="mybackground">
+            <div class="page">
+                <div class="page-wrapper">
+
+                    <h2><strong>About me...</strong></h2>
+                    <br>
+
+                    <p>I am a PhD student in the <a href="https://www.aim.qmul.ac.uk/">UKRI Centre for Doctoral Training in AI and Music</a> (AIM CDT) at <a href="http://www.eecs.qmul.ac.uk/research/research-groups/centre-for-digital-music-c4dm-research-group/">Centre for Digital Music</a>, Queen Mary University of London.</p>
+
+                </div>
+            </div>
+            <div class="footer">
+                <div class="footer-wrapper">
+                    <span><i class="fa fa-copyright" aria-hidden="true"></i> Lele Liu 2020</span>
+                    <span class="pull-right">Powered by Ruby</span>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+
+
+<script src="./js/ajax.js"></script>
+<script src="./js/bootstrap.min.js"></script>
+<script src="./js/jquery-1.11.2.js"></script>
+<script>
+$(document).ready(function() {
+    
+    $("#nav_1").click(function() {
+        var root_path = get_root_path();
+        location.href = root_path;
+    });
+
+    $("#nav_2").click(function() {
+        var root_path = get_root_path();
+        location.href = root_path + "/consent-form";
+    })
+})
+
+function get_root_path() {
+    var full_path = window.document.location.href;
+    var words = full_path.split('/');
+    var root_path = words[0] + '//' + words[2];
+    return root_path;
+}
+</script>
+
+<!-- 
+
+<html>
+<head>
+    <title>Lele Liu - Home</title>
+    link to main stylesheet
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">Research</a></li>
+            <li><a href="/cv">CV</a></li>
+            <li><a href="/blog">Blog</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <div class="blurb">
+            <h1><em>Lele Liu</em></h1>
+            <p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+        </div>
+    </div>
+    <footer>
+        <ul>
+            <li><a href="mailto:lele.liu@qmul.ac.uk">email</a></li>
+            <li><a href="https://github.com/cheriell">github.com/cheriell</a></li>
+        </ul>
+    </footer>
+</body>
+</html>
+
+ -->
