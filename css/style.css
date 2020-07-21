@@ -1,20 +1,26 @@
-/****************************** navigator *************************************/
+/****************************** top navigator *************************************/
 .nav-bar{
-    background-color:rgba(1, 20, 40, 1);
+    background-color:rgba(10, 30, 90, 0.9);
     position:absolute;
     width:100%;
     z-index:100;
 }
-@media screen and (min-width:1000px) {
+@media screen and (min-width:850px) {
     .nav-wrapper{
-        width:1000px;
+        width:850px;
         margin:auto auto auto auto;
     }
 }
-@media screen and (max-width:1000px) {
+@media screen and (max-width:850px) {
     .nav-wrapper{
         width:100%;
     }
+}
+.heading{
+    color:white;
+    text-align:left;
+    padding-left:0.5em;
+    font-family:"Comic Sans MS", cursive, sans-serif;
 }
 .nav{
     padding:0.9em 2em 0.9em 2em;
@@ -44,15 +50,15 @@
 
 /***************************** footer sytle ******************************/
 .footer{
-    background-color:rgba(1, 20, 40, 1);
+    background-color:rgba(10, 30, 90, 0.9);
     color:white;
 }
-@media screen and (min-width:1000px) {
+@media screen and (min-width:850px) {
     .footer-wrapper{
-        width:1000px;margin-left:auto;margin-right:auto;
+        width:850px;margin-left:auto;margin-right:auto;
     }
 }
-@media screen and (max-width:1000px) {
+@media screen and (max-width:850px) {
     .footer-wrapper{
         width:100%;
     }
@@ -62,12 +68,12 @@
 }
 
 /******************************** 主内容页面 ****************************/
-@media screen and (min-width:1000px) {
+@media screen and (min-width:850px) {
     .page{
-        width:1000px;margin-left:auto;margin-right:auto
+        width:816px;margin-left:auto;margin-right:auto
     }
 }
-@media screen and (max-width:1000px) {
+@media screen and (max-width:850px) {
     .page{
         width:96%;
         margin-left:2%;
@@ -76,9 +82,9 @@
 .page-wrapper{
     right:0;
     margin:15px 0 15px 0;
-    border:1px solid rgba(128, 128, 128, 0.9);
+    border:1px solid rgba(128, 128, 128, 0.92);
     padding:20px 30px 20px 30px;
-    background-color:rgba(255, 255, 255, 0.9);
+    background-color:rgba(255, 255, 255, 0.92);
     font-size:18px;
     text-align:left;
 }
