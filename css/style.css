@@ -20,7 +20,8 @@
     color:white;
     text-align:left;
     padding-left:0.5em;
-    font-family:"Comic Sans MS", cursive, sans-serif;
+    font-family:Georgia;
+    font-weight:bold;
 }
 .nav{
     padding:0.9em 2em 0.9em 2em;
