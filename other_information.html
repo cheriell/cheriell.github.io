@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>Lele Liu - Other Information</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="./css/bootstrap.min.css">
+        <link rel="stylesheet" href="./css/font-awesome.min.css">
+        <link rel="stylesheet" href="./css/style.css">
+    </head>
+
+    <body>
+        <div class="nav-bar">
+            <div class="nav-wrapper">
+                <div style="text-align:right">
+                    <h1 class="heading">
+                        <img src="./image/profile.jpg" style="width:1.4em;border-radius:0.7em"></img>
+                        <em>Lele Liu</em>
+                    </h1>
+                    <span class="nav" id="nav_1" style="cursor:pointer">Home</span>
+                    <span class="nav" id="nav_2" style="cursor:pointer">Publications</span>
+                </div>
+            </div>
+        </div>
+        <div class="mybackground">
+            <div class="page">
+                <div class="page-wrapper">
+
+                    <h2><strong>Other information</strong></h2>
+                    <br>
+
+                    <h4><i class="fa fa-music" aria-hidden="true"></i> <b>Conference Presentations</b></h4>
+                    <br>
+
+                    <p>Dec 2020: DMRN+15: Digital Music Research Network One-day Workshop, presentation</p>
+                    <p>Dec 2019: DMRN+14: Digital Music Research Network One-day Workshop, poster presentation</p>
+
+                    <br>
+                    <h4><i class="fa fa-music" aria-hidden="true"></i> <b>Awards</b></h4>
+                    <br>
+
+                    <p>2019-2023: CSC & QMUL Joint PhD Scholarship</p>
+                    <p>2017 & 2016: Higher International Science and Engineering Scholarship Award (twice)</p>
+                    <p>2015: The First Prize Scholarship</p>
+                    <p>2015: International Mathematical Contest in Modeling (Honorable Mention)</p>
+                    <p>2014: National Scholarship</p>
+
+                    <br>
+                    <h4><i class="fa fa-music" aria-hidden="true"></i> <b>Academic Activities</b></h4>
+                    <br>
+
+                    <p>2020: DMRN+15: Digital Music Research Network One-day Workshop, conference organiser</p>
+                    <p>2020 - today: AIM CDT student representative</p>
+                    <p>2019 - today: C4DM seminar organiser</p>
+                    <p>2014 - 2016: Class student representative</p>
+
+
+                    <br>
+
+                </div>
+            </div>
+            <div class="footer">
+                <div class="footer-wrapper">
+                    <span style="padding-left:1em">Copyright <i class="fa fa-copyright" aria-hidden="true"></i> Lele Liu</span>
+                    <span class="pull-right" style="padding-right:1em">Last updated in Jan 2021</span>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+
+
+<script src="./js/ajax.js"></script>
+<script src="./js/bootstrap.min.js"></script>
+<script src="./js/jquery-1.11.2.js"></script>
+<script>
+$(document).ready(function() {
+    $("#to_home").click(function() {
+        var root_path = get_root_path();
+        location.href = root_path;
+    });
+    
+    $("#nav_1").click(function() {
+        var root_path = get_root_path();
+        location.href = root_path;
+    });
+
+    $("#nav_2").click(function() {
+        var root_path = get_root_path();
+        location.href = root_path + "/publications";
+    })
+})
+
+function get_root_path() {
+    var full_path = window.document.location.href;
+    var words = full_path.split('/');
+    var root_path = words[0] + '//' + words[2];
+    return root_path;
+}
+</script>
