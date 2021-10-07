@@ -12,7 +12,7 @@
     <body>
         <div class="nav-bar">
             <div class="nav-wrapper">
-                <div style="text-align:right">
+                <div style="text-align:left">
                     <h1 class="heading">
                         <img src="./image/profile.jpg" style="width:1.4em;border-radius:0.7em"></img>
                         <em>Lele Liu</em>
@@ -73,28 +73,4 @@
 <script src="./js/ajax.js"></script>
 <script src="./js/bootstrap.min.js"></script>
 <script src="./js/jquery-1.11.2.js"></script>
-<script>
-$(document).ready(function() {
-    $("#to_home").click(function() {
-        var root_path = get_root_path();
-        location.href = root_path;
-    });
-    
-    $("#nav_1").click(function() {
-        var root_path = get_root_path();
-        location.href = root_path;
-    });
-
-    $("#nav_2").click(function() {
-        var root_path = get_root_path();
-        location.href = root_path + "/publications";
-    })
-})
-
-function get_root_path() {
-    var full_path = window.document.location.href;
-    var words = full_path.split('/');
-    var root_path = words[0] + '//' + words[2];
-    return root_path;
-}
-</script>
+<script src='./js/navigate.js'></script>

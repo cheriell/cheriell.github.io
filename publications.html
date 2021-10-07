@@ -12,7 +12,7 @@
     <body>
         <div class="nav-bar">
             <div class="nav-wrapper">
-                <div style="text-align:right">
+                <div style="text-align:left">
                     <h1 class="heading">
                         <img src="./image/profile.jpg" style="width:1.4em;border-radius:0.7em"></img>
                         <em>Lele Liu</em>
@@ -26,14 +26,15 @@
             <div class="page">
                 <div class="page-wrapper">
 
-                    <h2><strong>Publication and preprints</strong></h2>
-                    <br>
+                    <h1><strong>Publications and preprints</strong></h1>
+
+                    <p>Updated in May 30, 2021</p>
+
+                    <hr class="solid">
 
                     <p><img src="./image/icons8-google-scholar-50.png" style="width:1em"></img> <a href="https://scholar.google.com/citations?user=ZwFmzd8AAAAJ&hl=en">link to Google scholar profile</a></p>
-                    <br>
-
-                    <h4><i class="fa fa-music" aria-hidden="true"></i> <b>Publications</b></h4>
-                    <br>
+                    
+                    <h2><i class="fa fa-music" aria-hidden="true"></i> <b>Publications</b></h2>
 
                     <p>Lele Liu and Emmanouil Benetos, "<em><a href="https://link.springer.com/chapter/10.1007/978-3-030-72116-9_24">From Audio to Music Notation</a></em>", in Handbook of Artificial Intelligence for Music, E. Miranda (ed.), pp. 693-714, Springer, 2021 (ISBN: 978-3-030-72115-2)</p>
 
@@ -45,9 +46,7 @@
 
                     <p>Lele Liu and Emmanouil Benetos, "<em><a href="https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/62518/Liu%20Automatic%20Music%20Accompaniment%202019%20Accepted.pdf?sequence=2">Automatic Music Accompaniment with a Chroma-based Music Data Representation</a></em>", DMRN+14: Digital Music Research Network One-day Workshop, London, Dec 2019.</p>
 
-                    <br>
-                    <h4><i class="fa fa-music" aria-hidden="true"></i> <b>Preprints</b></h4>
-                    <br>
+                    <h2><i class="fa fa-music" aria-hidden="true"></i> <b>Preprints</b></h2>
 
                     <p>Adrien Ycart, Lele Liu, Emmanouil Benetos and Marcus T. Pearce. "<em><a href="https://arxiv.org/abs/2004.07171">Musical features for automatic music transcription evaluation</a></em>", arXiv preprint arXiv:2004.07171, 2020.</p>
                     <br>
@@ -68,28 +67,4 @@
 <script src="./js/ajax.js"></script>
 <script src="./js/bootstrap.min.js"></script>
 <script src="./js/jquery-1.11.2.js"></script>
-<script>
-$(document).ready(function() {
-    $("#to_home").click(function() {
-        var root_path = get_root_path();
-        location.href = root_path;
-    });
-    
-    $("#nav_1").click(function() {
-        var root_path = get_root_path();
-        location.href = root_path;
-    });
-
-    $("#nav_2").click(function() {
-        var root_path = get_root_path();
-        location.href = root_path + "/publications";
-    })
-})
-
-function get_root_path() {
-    var full_path = window.document.location.href;
-    var words = full_path.split('/');
-    var root_path = words[0] + '//' + words[2];
-    return root_path;
-}
-</script>
+<script src='./js/navigate.js'></script>

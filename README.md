@@ -10,7 +10,8 @@ My personal page at https://cheriell.github.io
 
 debug locally, run:
 
-    jekyll serve
+    bundle exec jekyll build
+    bundle exec jekyll serve
 
 open page at localhost:4000
 

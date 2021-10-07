@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>Lele Liu - Research</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="../../css/bootstrap.min.css">
+        <link rel="stylesheet" href="../../css/font-awesome.min.css">
+        <link rel="stylesheet" href="../../css/style.css">
+    </head>
+
+    <body>
+        <div class="nav-bar">
+            <div class="nav-wrapper">
+                <div style="text-align:left">
+                    <h1 class="heading">
+                        <img src="../../image/profile.jpg" style="width:1.4em;border-radius:0.7em"></img>
+                        <em>Lele Liu</em>
+                    </h1>
+                    <span class="nav" id="nav_1" style="cursor:pointer">Home</span>
+                    <span class="nav" id="nav_2" style="cursor:pointer">Publications</span>
+                </div>
+            </div>
+        </div>
+        <div class="mybackground">
+            <div class="page">
+                <div class="page-wrapper">
+
+                    <h1>ACPAS dataset: Aligned Classical Piano Audio and Score</h1>
+                    <p>October 7, 2021</p>
+                    <hr class="solid">
+
+                    <p><b>ACPAS</b> is a dataset with aligned audio and scores for classical piano music containing 497 distinct music scores aligned with 2189 performances, in total 179.77 hours. For each performance, we provide the corresponding performance audio (real recording or synthesized recording), performance MIDI, and MIDI score, together with rhythm and key annotations.</p>
+
+                    <h2>Download</h2>
+                    <hr class="dashed">
+                    
+                    <p>ACPAS dataset is composed of a Real recording subset and a Synthetic subset. The two subsets are published separately at Zenodo; please follow the links below to download.</p>
+
+                    <p>Real recording subset:</p>
+
+                    <p>
+                        <li><a href="./metadata_R.csv">metadata_R.csv</a></li>
+                        <li><a href="path/to/zenodo/subset">Download subset</a></li>
+                    </p>
+
+                    <p>Synthetic subset:</p>
+
+                    <p>
+                        <li><a href="./metadata_S.csv">metadata_S.csv</a></li>
+                        <li><a href="path/to/zenodo/subset">Download subset</a></li>
+                    </p>
+
+                    <p>We provide an additional .csv file listing all the distinct pieces covered in this dataset, available <a href="./distinct_pieces.csv">here</a>.</p>
+
+                    <h2>Description</h2>
+                    <hr class="dashed">
+
+                    <p>ACPAS dataset is created based on several source piano datasets, including the MAPS dataset [1], <a href="http://c4dm.eecs.qmul.ac.uk/ycart/a-maps.html">A-MAPS dataset</a> [2], <a href="http://www.piano-midi.de/">Classical Piano MIDI (PCM) database</a>, and <a href="https://github.com/fosfrancesco/asap-dataset">ASAP dataset</a> [3]. Additional audio recordings are synthesized from performance MIDIs using <a href="https://www.native-instruments.com/en/products/komplete/samplers/kontakt-6-player">Native Instrument Kontakt Player</a>.</p>
+
+                    <p>A detailed description on how this dataset is created and its contents can be found <a href="path/to/LBC_abstract">here</a>.</p>
+
+                    <h3>Content</h3>
+
+                    <p>The real recording subset covers 578 real recording performances from</p>
+                    <ol>
+                        <li>the two real recording subsets ("ENSTDkCl" and "ENSTDkAm") in the MAPS dataset and corresponding MIDI scores from the A-MAPS dataset;</li>
+                        <li>the performances and scores from the ASAP dataset with audio recordings obtained from the MAESTRO dataset [4].</li>
+                    </ol>
+
+                    <p>The synthetic subset covers 1611 performances with synthetic audio recordings from the following three sources:</p>
+                    <ol>
+                        <li>performances from the MAPS synthetic subsets, and MIDI scores from the A-MAPS dataset;</li>
+                        <li>MIDI performances and scores from the ASAP dataset, and audio files synthesized from performance MIDIs using Native Instrument Kontakt Player;</li>
+                        <li>MIDI performances and scores from the CPM database, and audio files synthesized from performance MIDI using Native Instrument Kontakt Player.</li>
+                    </ol>
+
+                    <h3>Statistics</h3>
+
+                    <p>A detailed statistic of the dataset is as below:</p>
+
+                    <table class="tg">
+                      <thead>
+                        <tr>
+                          <th class="tg-nvaa"><span style="font-weight:600">Subset</span></th>
+                          <th class="tg-3psh"><span style="font-weight:600">Source</span></th>
+                          <th class="tg-3psh"><span style="font-weight:600">Split</span></th>
+                          <th class="tg-3psh"><span style="font-weight:600">Distinct Pieces</span></th>
+                          <th class="tg-3psh"><span style="font-weight:600">Performances</span></th>
+                          <th class="tg-3psh"><span style="font-weight:600">Duration (hours)</span></th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td class="tg-3psh" rowspan="5">Real recording</td>
+                          <td class="tg-nvaa">MAPS</td>
+                          <td class="tg-nvaa">test</td>
+                          <td class="tg-nvaa">52</td>
+                          <td class="tg-nvaa">59</td>
+                          <td class="tg-nvaa">4.28</td>
+                        </tr>
+                        <tr>
+                          <td class="tg-nvaa">ASAP</td>
+                          <td class="tg-nvaa">train</td>
+                          <td class="tg-nvaa">109</td>
+                          <td class="tg-nvaa">368</td>
+                          <td class="tg-nvaa">32.74</td>
+                        </tr>
+                        <tr>
+                          <td class="tg-nvaa">ASAP</td>
+                          <td class="tg-nvaa">validation</td>
+                          <td class="tg-nvaa">17</td>
+                          <td class="tg-nvaa">49</td>
+                          <td class="tg-nvaa">2.52</td>
+                        </tr>
+                        <tr>
+                          <td class="tg-nvaa">ASAP</td>
+                          <td class="tg-nvaa">test</td>
+                          <td class="tg-nvaa">44</td>
+                          <td class="tg-nvaa">102</td>
+                          <td class="tg-nvaa">9.42</td>
+                        </tr>
+                        <tr>
+                          <td class="tg-3psh">All</td>
+                          <td class="tg-3psh">Total</td>
+                          <td class="tg-3psh">215</td>
+                          <td class="tg-3psh">578</td>
+                          <td class="tg-3psh">48.96</td>
+                        </tr>
+                        <tr>
+                          <td class="tg-3psh" rowspan="4">Synthetic</td>
+                          <td class="tg-nvaa">--</td>
+                          <td class="tg-nvaa">train</td>
+                          <td class="tg-nvaa">359</td>
+                          <td class="tg-nvaa">1155</td>
+                          <td class="tg-nvaa">94.96</td>
+                        </tr>
+                        <tr>
+                          <td class="tg-nvaa">--</td>
+                          <td class="tg-nvaa">validation</td>
+                          <td class="tg-nvaa">49</td>
+                          <td class="tg-nvaa">135</td>
+                          <td class="tg-nvaa">8.67</td>
+                        </tr>
+                        <tr>
+                          <td class="tg-nvaa">--</td>
+                          <td class="tg-nvaa">test</td>
+                          <td class="tg-nvaa">89</td>
+                          <td class="tg-nvaa">321</td>
+                          <td class="tg-nvaa">27.18</td>
+                        </tr>
+                        <tr>
+                          <td class="tg-3psh">--</td>
+                          <td class="tg-3psh">Total</td>
+                          <td class="tg-3psh">497</td>
+                          <td class="tg-3psh">1611</td>
+                          <td class="tg-3psh">130.81</td>
+                        </tr>
+                        <tr>
+                          <td class="tg-3psh" rowspan="4">Both</td>
+                          <td class="tg-nvaa">--</td>
+                          <td class="tg-nvaa">train</td>
+                          <td class="tg-nvaa">359</td>
+                          <td class="tg-nvaa">1523</td>
+                          <td class="tg-nvaa">127.70</td>
+                        </tr>
+                        <tr>
+                          <td class="tg-nvaa">--</td>
+                          <td class="tg-nvaa">validation</td>
+                          <td class="tg-nvaa">49</td>
+                          <td class="tg-nvaa">184</td>
+                          <td class="tg-nvaa">11.19</td>
+                        </tr>
+                        <tr>
+                          <td class="tg-nvaa">--</td>
+                          <td class="tg-nvaa">test</td>
+                          <td class="tg-nvaa">89</td>
+                          <td class="tg-nvaa">482</td>
+                          <td class="tg-nvaa">40.88</td>
+                        </tr>
+                        <tr>
+                          <td class="tg-3psh">--</td>
+                          <td class="tg-3psh">Total</td>
+                          <td class="tg-3psh">497</td>
+                          <td class="tg-3psh">2189</td>
+                          <td class="tg-3psh">179.78</td>
+                        </tr>
+                      </tbody>
+                      </table>
+
+                    <h3>Metadata</h3>
+
+                    <p>The dataset metadata is provided in three files:</p>
+
+                    <ul>
+                        <li><code>metadata_R.csv</code> provides the metadata for all the performances in the Real recording subset.</li>
+                        <li><code>metadata_S.csv</code> provides the metadata for all the perofrmances in the Synthetic subset.</li>
+                        <li><code>distinct_pieces.csv</code> is a list of distinct pieces in this dataset, together with the allocated train/vadlidation/test split.</li>
+                    </ul>
+
+                    <p>The parameters in the two <code>metadata_X.csv</code> file are:</p>
+
+                    <ul>
+                        <li><code>performance_id</code>: The ID of the performance in this dataset. Performances from the Real recording subset have IDs starting with <code>R_</code> and those from the Synthetic subset have IDs starting with <code>S_</code>.</li>
+                        <li><code>composer</code>: composer of the music piece.</li>
+                        <li><code>piece_id</code>: ID of the corresponding music piece, this is in line with the piece ID provided in <code>distinct_pieces.csv</code>.</li>
+                        <li><code>title</code>: title of the music pieces, in line with the title in <code>distinct_pieces.csv</code>.</li>
+                        <li><code>source</code>: the source dataset of the performance, can be "MAPS", "ASAP" or "CPM".</li>
+                        <li><code>performance_audio_external</code>: path to the performance audio in the source dataset.</li>
+                        <li><code>performance_MIDI_external</code>: path to the performance MIDI in the source dataset.</li>
+                        <li><code>MIDI_score_external</code>: path to the MIDI score in the source dataset.</li>
+                        <li><code>performance_beat_annotation_external</code>: path to the performance beat annotation in the source dataset.</li>
+                        <li><code>score_beat_annotation_external</code>: path to the score beat annotation in the source dataset.</li>
+                        <li><code>folder</code>: folder to the audio, MIDI and annotation files.</li>
+                        <li><code>performance_audio</code>: performance audio file.</li>
+                        <li><code>performance_MIDI</code>: performance MIDI file.</li>
+                        <li><code>MIDI_score</code>: MIDI score file.</li>
+                        <li><code>aligned</code>: True if the performance and score are aligned. There are 30 performances are not aligned with the corresponding score. This is because of some errors made during the performance.</li>
+                        <li><code>performance_beat_annotation</code>: performance beat annotation file.</li>
+                        <li><code>score_beat_annotation</code>: score beat annotation file.</li>
+                        <li><code>duration</code>: duration of the performance in seconds.</li>
+                        <li><code>split</code>: train/validation/test split.</li>
+                    </ul>
+
+                    <h3>Limitations</h3>
+
+                    <p>Please note that the voice and hand annotations in the scores are not checked and we do not suggest using these as ground truth. In addition, due to the limitation of the scores in MIDI format, the dataset is not suitable for tasks like score formatting.</p>
+
+                    <hr class="dashed">
+                    
+                    <!-- <p><b>Cite:</b> If you use this dataset in a published research project, please cite:</p>
+
+                    <p><li>Lele Liu, Veronica Morfi and Emmanouil Benetos, "ACPAS: A Dataset of Aligned Classical Piano Audio and Scores for Audio-to-Score Transcription," submitted to ISMIR Late-breaking Demo, 2021.</li></p> -->
+
+                    <p><b>References:</b></p>
+
+                    <p>[1] V. Emiya et al., "Multipitch Estimation of Piano Sounds Using a New Probabilistic Spectral Smoothness Principle," IEEE Transactions on Audio, Speech and Language Processing, vol. 18, no. 6, pp. 1643-1654, 2010.</p>
+
+                    <p>[2] A. Ycart and E. Benetos, "A-MAPS: Augmented MAPS Dataset with Rhythm and Key Annotations," in International Society for Music Information Retrieval (ISMIR) Conference, Late Breaking Demo, 2018.</p>
+
+                    <p>[3] F. Foscarin et al., "ASAP: A Dataset of Aligned Scores and Performances for Piano Transcription," in International Society for Music Information Retrieval (ISMIR) Conference, 2020.</p>
+
+                    <p>[4] C. Hawthorne et al., "Enabling Factorized Piano Music Modeling and Generation with the MAESTRO Dataset," in International Conference on Learning Representations (ICLR), 2019.</p>
+                    
+
+
+                </div>
+            </div>
+            <div class="footer">
+                <div class="footer-wrapper">
+                    <span style="padding-left:1em">Copyright <i class="fa fa-copyright" aria-hidden="true"></i> Lele Liu</span>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+
+
+<script src="../../js/ajax.js"></script>
+<script src="../../js/bootstrap.min.js"></script>
+<script src="../../js/jquery-1.11.2.js"></script>
+<script src='../../js/navigate.js'></script>
