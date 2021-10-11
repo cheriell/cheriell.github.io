@@ -51,14 +51,18 @@
                         <li><a href="path/to/zenodo/subset">Download subset</a></li>
                     </p>
 
-                    <p>We provide an additional .csv file listing all the distinct pieces covered in this dataset, available <a href="./distinct_pieces.csv">here</a>.</p>
+                    <p>We provide an additional .csv file listing all the distinct pieces covered in this dataset, available at <a href="./distinct_pieces.csv">distinct_pieces.csv</a>.</p>
 
                     <h2>Description</h2>
                     <hr class="dashed">
 
                     <p>ACPAS dataset is created based on several source piano datasets, including the MAPS dataset [1], <a href="http://c4dm.eecs.qmul.ac.uk/ycart/a-maps.html">A-MAPS dataset</a> [2], <a href="http://www.piano-midi.de/">Classical Piano MIDI (PCM) database</a>, and <a href="https://github.com/fosfrancesco/asap-dataset">ASAP dataset</a> [3]. Additional audio recordings are synthesized from performance MIDIs using <a href="https://www.native-instruments.com/en/products/komplete/samplers/kontakt-6-player">Native Instrument Kontakt Player</a>.</p>
 
-                    <p>A detailed description of how this dataset is created and its contents can be found <a href="path/to/LBC_abstract">here</a>.</p>
+                    <p>A detailed description of how this dataset is created and its contents can be found at:</p>
+
+                    <p><li>Lele Liu, Veronica Morfi and Emmanouil Benetos, "ACPAS: A Dataset of Aligned Classical Piano Audio and Scores for Audio-to-Score Transcription," submitted to ISMIR Late-breaking Demo, 2021.</li></p>
+
+                    <!-- <p>Please cite the above if you use this dataset in a published work.</p> -->
 
                     <h3>Content</h3>
 
@@ -209,15 +213,15 @@
                         <li><code>performance_audio_external</code>: path to the performance audio in the source dataset.</li>
                         <li><code>performance_MIDI_external</code>: path to the performance MIDI in the source dataset.</li>
                         <li><code>MIDI_score_external</code>: path to the MIDI score in the source dataset.</li>
-                        <li><code>performance_beat_annotation_external</code>: path to the performance beat annotation in the source dataset.</li>
-                        <li><code>score_beat_annotation_external</code>: path to the score beat annotation in the source dataset.</li>
+                        <li><code>performance_annotation_external</code>: path to the performance annotation in the source dataset.</li>
+                        <li><code>score_annotation_external</code>: path to the score annotation in the source dataset.</li>
                         <li><code>folder</code>: folder to the audio, MIDI, and annotation files.</li>
                         <li><code>performance_audio</code>: performance audio file.</li>
                         <li><code>performance_MIDI</code>: performance MIDI file.</li>
                         <li><code>MIDI_score</code>: MIDI score file.</li>
                         <li><code>aligned</code>: True if the performance and score are aligned. There are 30 performances that are not aligned with the corresponding score. This is because of some errors made during the performance.</li>
-                        <li><code>performance_beat_annotation</code>: performance beat annotation file.</li>
-                        <li><code>score_beat_annotation</code>: score beat annotation file.</li>
+                        <li><code>performance_annotation</code>: performance annotation file.</li>
+                        <li><code>score_annotation</code>: score annotation file.</li>
                         <li><code>duration</code>: duration of the performance in seconds.</li>
                         <li><code>split</code>: train/validation/test split.</li>
                     </ul>
@@ -226,13 +230,13 @@
 
                     <p>Please note that the voice and hand annotations in the scores are not checked and we do not suggest using these as ground truth. In addition, due to the limitation of the scores in MIDI format, the dataset is not suitable for tasks like score formatting.</p>
 
+                    <h3>Questions</h3>
+
+                    <p>For any questions, suggestions, or comments, please do not hesitate to contact <a href="mailto:lele.liu@qmul.ac.uk">lele.liu@qmul.ac.uk</a>.</p>
+
                     <hr class="dashed">
                     
-                    <!-- <p><b>Cite:</b> If you use this dataset in a published research project, please cite:</p>
-
-                    <p><li>Lele Liu, Veronica Morfi and Emmanouil Benetos, "ACPAS: A Dataset of Aligned Classical Piano Audio and Scores for Audio-to-Score Transcription," submitted to ISMIR Late-breaking Demo, 2021.</li></p> -->
-
-                    <p><b>References:</b></p>
+                    <p><b>References</b></p>
 
                     <p>[1] V. Emiya et al., "Multipitch Estimation of Piano Sounds Using a New Probabilistic Spectral Smoothness Principle," IEEE Transactions on Audio, Speech and Language Processing, vol. 18, no. 6, pp. 1643-1654, 2010.</p>
 
