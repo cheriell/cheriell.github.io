@@ -1,6 +1,6 @@
 /****************************** top navigator *************************************/
 .nav-bar{
-    background-color:rgba(10, 30, 90, 0.9);
+    background-color:black;
     position:absolute;
     width:100%;
     z-index:100;
@@ -51,7 +51,7 @@
 
 /***************************** footer sytle ******************************/
 .footer{
-    background-color:rgba(10, 30, 90, 0.9);
+    background-color:black;
     color:white;
 }
 @media screen and (min-width:1000px) {
