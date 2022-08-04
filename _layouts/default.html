@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Lele Liu - {{ page.title }}</title>
+        <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="./assets/css/font-awesome.min.css">
+        <link rel="stylesheet" href="./assets/css/style.css">
+    </head>
+    <body>
+        {% include navigation.html %}
+        <div class="mybackground">
+            <div class="page">
+                <div class="page-wrapper">
+                    {{ content }}
+                </div>
+            </div>
+            {% include footer.html %}
+        </div>
+    </body>
+</html>
+
+<script src="./assets/js/ajax.js"></script>
+<script src="./assets/js/bootstrap.min.js"></script>
+<script src="./assets/js/jquery-1.11.2.js"></script>

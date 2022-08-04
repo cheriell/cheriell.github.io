@@ -1,5 +1,12 @@
-<nav>
 
-                    <span class="nav" id="nav_1" style="cursor:pointer">Home</span>
-                    <span class="nav" id="nav_2" style="cursor:pointer">Publications</span>
-</nav>
+<div class="nav-bar">
+<div class="nav-wrapper">
+    <h1 class="heading">
+        <img src="./assets/image/profile.jpg" style="width:1.4em;border-radius:0.7em"></img>
+        <em>Lele Liu</em>
+    </h1>
+    {% for item in site.data.navigation %}
+        <a href="{{ item.link }}"><span class="nav" style="cursor:pointer">{{ item.name }}</span></a>
+    {% endfor %}
+</div>
+</div>

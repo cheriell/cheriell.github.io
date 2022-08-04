@@ -16,3 +16,7 @@ which will open a local page at localhost:4000
 Pass the `--livereload` option to serve to automatically refresh the page with each change you make to the source files:
 
     bundle exec jekyll serve --livereload
+
+## Others
+
+- Font awesome icons: https://fontawesome.com/v4/icons/
