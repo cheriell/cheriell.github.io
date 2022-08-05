@@ -13,11 +13,11 @@ PhD researcher in AI and Music
 
 <i class="fa fa-envelope" aria-hidden="true"></i> lele[dot]liu[at]qmul[dot]ac[dot]uk
 
-<i class="fa fa-twitter-square" aria-hidden="true"></i> [Twitter]()
+<i class="fa fa-twitter-square" aria-hidden="true"></i> [Twitter](https://twitter.com/liulelecherie)
 
 <i class="fa fa-github-square" aria-hidden="true"></i> [Github](https://github.com/cheriell)
 
-<i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn]()
+<i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn](https://www.linkedin.com/in/lele-liu-748a3a124/)
 
 <img src="./assets/image/icons8-google-scholar-50.png" style="width:1em"> [Google Scholar](https://scholar.google.com/citations?user=ZwFmzd8AAAAJ&hl=en)
 
