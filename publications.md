@@ -9,6 +9,8 @@ title: Publications
 
 ## <i class="fa fa-music" aria-hidden="true"></i> Publications
 
+- Lele Liu, Qiuqiang Kong, Veronica Morfi and Emmanouil Benetos, "Performance MIDI-to-Score Conversion by Neural Beat Tracking," in Proceedings of the 23rd International Society for Music Information Retrieval Conference, Bengaluru, India, Dec 2022. (accepted)
+
 - Lele Liu, Veronica Morfi and Emmanouil Benetos, "[ACPAS: A Dataset of Aligned Classical Piano Audio and Scores for Audio-to-Score Transcription](https://archives.ismir.net/ismir2021/latebreaking/000013.pdf)," International Society for Music Information Retrieval Conference Late-Breaking Demos Session, Nov 2021.
 
 - Lele Liu and Emmanouil Benetos, "[From Audio to Music Notation](https://link.springer.com/chapter/10.1007/978-3-030-72116-9_24)," in Handbook of Artificial Intelligence for Music, E. Miranda (ed.), pp. 693-714, Springer, 2021 (ISBN: 978-3-030-72115-2).

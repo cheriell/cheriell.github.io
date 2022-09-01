@@ -156,8 +156,9 @@ h3 {
     font-weight:bold;
 }
 
+/*************************** Links style *****************************/
 
 a {
-    color:rgb(39, 27, 85);
+    color:rgb(65, 29, 119);
     text-decoration:none;
 }
