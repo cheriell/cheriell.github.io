@@ -9,7 +9,7 @@ title: Publications
 
 ## <i class="fa fa-music" aria-hidden="true"></i> Publications
 
-- Lele Liu, Qiuqiang Kong, Veronica Morfi and Emmanouil Benetos, "[Performance MIDI-to-Score Conversion by Neural Beat Tracking](https://www.turing.ac.uk/sites/default/files/2022-09/midi_quantisation_paper_ismir_2022_0.pdf)," in Proceedings of the 23rd International Society for Music Information Retrieval Conference, Bengaluru, India, Dec 2022. (Best paper award)
+- Lele Liu, Qiuqiang Kong, Veronica Morfi and Emmanouil Benetos, "[Performance MIDI-to-Score Conversion by Neural Beat Tracking](https://www.turing.ac.uk/sites/default/files/2022-09/midi_quantisation_paper_ismir_2022_0.pdf)," in Proceedings of the 23rd International Society for Music Information Retrieval Conference, Bengaluru, India, Dec 2022. (*Best paper award*)
 
 - Lele Liu, Veronica Morfi and Emmanouil Benetos, "[ACPAS: A Dataset of Aligned Classical Piano Audio and Scores for Audio-to-Score Transcription](https://archives.ismir.net/ismir2021/latebreaking/000013.pdf)," International Society for Music Information Retrieval Conference Late-Breaking Demos Session, Nov 2021.
 
