@@ -23,6 +23,6 @@ title: Publications
 
 - Lele Liu and Emmanouil Benetos, "[Automatic Music Accompaniment with a Chroma-based Music Data Representation](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/62518/Liu%20Automatic%20Music%20Accompaniment%202019%20Accepted.pdf?sequence=2)," DMRN+14: Digital Music Research Network One-day Workshop, London, Dec 2019.
 
-## <i class="fa fa-music" aria-hidden="true"></i> Preprints
+## <i class="fa fa-music" aria-hidden="true"></i> Reports
 
 - Adrien Ycart, Lele Liu, Emmanouil Benetos and Marcus T. Pearce. "[Musical features for automatic music transcription evaluation](https://arxiv.org/abs/2004.07171)," arXiv preprint arXiv:2004.07171, 2020.
