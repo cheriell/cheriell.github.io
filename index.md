@@ -23,7 +23,7 @@ PhD researcher in AI and Music
 
 ---
 
-I am a research student in the [UKRI Centre for Doctoral Training in AI and Music (AIM CDT)](https://www.aim.qmul.ac.uk/) at [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/), [Queen Mary University of London](https://www.qmul.ac.uk/). My research project is in Automatic Music Transcription, under the supervision of [Dr. Emmanouil Benetos](https://www.eecs.qmul.ac.uk/~emmanouilb/), [Prof. Simon Dixon](http://www.eecs.qmul.ac.uk/~simond/) and [Dr. Veronica Morfi](https://scholar.google.co.uk/citations?user=8izRvu4AAAAJ&hl=en), supported by a China Scholarship Council and Queen Mary University of London joint PhD scholarship.
+I am a research student in the [UKRI Centre for Doctoral Training in AI and Music (AIM CDT)](https://www.aim.qmul.ac.uk/) at [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/), [Queen Mary University of London](https://www.qmul.ac.uk/). My research project is in Automatic Music Transcription, under the supervision of [Dr. Emmanouil Benetos](https://www.eecs.qmul.ac.uk/~emmanouilb/), [Dr. Veronica Morfi](https://scholar.google.co.uk/citations?user=8izRvu4AAAAJ&hl=en), and [Prof. Simon Dixon](http://www.eecs.qmul.ac.uk/~simond/), supported by a China Scholarship Council and Queen Mary University of London joint PhD scholarship.
 
 A large part of my research interest falls in the intersection of AI and music. Currently, my main research interest is in automated music audio-to-score transcription. I am developing algorithms that can transcribe music audio recordings into a readable score format, e.g. MusicXML.
 
