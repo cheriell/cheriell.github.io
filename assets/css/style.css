@@ -1,121 +1,116 @@
-/****************************** top navigator *************************************/
-.nav-bar{
-    background-color: rgb(35, 35, 35);
-    position:absolute;
-    width:100%;
-    z-index:100;
-}
-@media screen and (min-width:800px) {
-    .nav-wrapper{
-        width:800px;
-        margin:auto auto auto auto;
-    }
-}
-@media screen and (max-width:800px) {
-    .nav-wrapper{
+
+@media screen and (max-width: 768px) {
+    /* For mobile phone */
+
+    /* Top navigator */
+    .nav-bar{background-color: rgb(35, 35, 35); position:absolute; width:100%; z-index:100;}
+    .nav-wrapper{width:100%;}
+    .heading{color:white; text-align:left; padding:0.5em 0.5em 0.5em 0.5em; font-family:Georgia; font-weight:bold; font-size:70px}
+    .nav{padding:0.5em 1em 0.5em 1em; color:white; font-size:40px; font-weight:bold; text-align:center; display:inline-block;}
+    .nav:hover{background-color:rgba(133, 143, 163, 0.65);}
+
+    /* Page background */
+    .mybackground{
+        background-image:url("../image/background-mobile.png");
+        background-position:0px 140px;
+        background-size:100% auto;
         width:100%;
+        height:100%;
+        padding-top:280px;  /*reserve space for top navigator*/
+        background-color:rgb(200, 200, 200);
+        background-repeat:no-repeat;
+        background-position-x:center;
+        background-attachment:fixed;
     }
-}
-.heading{
-    color:white;
-    text-align:left;
-    padding-left:0.5em;
-    font-family:Georgia;
-    font-weight:bold;
-}
-.nav{
-    padding:0.9em 2em 0.9em 2em;
-    color:white;
-    font-size:16px;
-    font-weight:bold;
-    text-align:center;
-    display:inline-block
-}
-.nav:hover{
-    background-color:rgba(133, 143, 163, 0.65);
-}
-
-/**************************** page background *********************************/
-.mybackground{
-    background-image:url("../image/picture.png");
-    background-position:0px 140px;
-    background-size:100% auto;
-    width:100%;
-    height:100%;
-    padding-top:130px;  /*reserve space for top navigator*/
-    background-color:rgb(200, 200, 200);
-    background-repeat:no-repeat;
-    background-position-x:center;
-    background-attachment:fixed;
-}
-
-/***************************** footer sytle ******************************/
-.footer{
-    background-color:rgb(35, 35, 35);
-    color:white;
-}
-@media screen and (min-width:800px) {
-    .footer-wrapper{
-        width:800px;margin-left:auto;margin-right:auto;
+    /* Footer */
+    .footer{
+        background-color:rgb(35, 35, 35);
+        color:white;
+        font-size:40px;
     }
-}
-@media screen and (max-width:800px) {
     .footer-wrapper{
         width:100%;
+        padding-top:1em;padding-bottom:1em;
     }
-}
-.footer-wrapper{
-    padding-top:1em;padding-bottom:1em;
-}
 
-/******************************** main page ****************************/
-@media screen and (min-width:800px) {
-    .page{
-        width:800px;
-        margin-left:auto;
-        margin-right:auto;
-        min-height: 100vh;
-    }
-}
-@media screen and (max-width:800px) {
+    /* Main page */
     .page{
         width:96%;
         margin-left:2%;
         margin-right:2%;
         min-height: 100vh;
     }
+    .page-wrapper{
+        right:0;
+        margin:15px 0 15px 0;
+        border:1px solid rgba(128, 128, 128, 0.92);
+        padding:20px 30px 20px 30px;
+        background-color:rgba(255, 255, 255, 0.92);
+        font-size:40px;
+        text-align:left;
+    }
+    h1 {font-size:60px}
+    h2 {font-size:50px}
+    h3 {font-size:40px}
 }
-.page-wrapper{
-    right:0;
-    margin:15px 0 15px 0;
-    border:1px solid rgba(128, 128, 128, 0.92);
-    padding:20px 30px 20px 30px;
-    background-color:rgba(255, 255, 255, 0.92);
-    font-size:18px;
-    text-align:left;
+
+@media screen and (min-width: 768px) {
+    /* For desktop */
+
+    /* Top navigator */
+    .nav-bar{background-color: rgb(35, 35, 35); position:absolute; width:100%; z-index:100;}
+    .nav-wrapper{width:100%;}
+    .heading{color:white; text-align:left; padding-left:0.5em; font-family:Georgia; font-weight:bold;}
+    .nav{padding:0.9em 2em 0.9em 2em; color:white; font-size:16px; font-weight:bold; text-align:center; display:inline-block;}
+    .nav:hover{background-color:rgba(133, 143, 163, 0.65);}
+
+    /* Page background */
+    .mybackground{
+        background-image:url("../image/background-desktop.png");
+        background-position:0px 140px;
+        background-size:100% auto;
+        width:100%;
+        height:100%;
+        padding-top:130px;
+        background-color:rgb(200, 200, 200);
+        background-repeat:no-repeat;
+        background-position-x:center;
+        background-attachment:fixed;
+    }
+
+    /***************************** footer sytle ******************************/
+    .footer{
+        background-color:rgb(35, 35, 35);
+        color:white;
+    }
+    .footer-wrapper{
+        width:768px;margin-left:auto;margin-right:auto;
+        padding-top:1em;padding-bottom:1em;
+    }
+
+    /******************************** main page ****************************/
+    .page{
+        width:786px;
+        margin-left:auto;
+        margin-right:auto;
+        min-height: 100vh;
+    }
+    .page-wrapper{
+        right:0;
+        margin:15px 0 15px 0;
+        border:1px solid rgba(128, 128, 128, 0.92);
+        padding:20px 30px 20px 30px;
+        background-color:rgba(255, 255, 255, 0.92);
+        font-size:18px;
+        text-align:left;
+    }
 }
 
 /******************************* button **********************************/
-.mybutton{
-    border-radius:4px;
-    padding:0.1em 0.3em 0.1em 0.3em;
-    background-color:gainsboro;
-    border:1px solid gray;
-    outline:none !important;
-}
-.mybutton:hover{
-    background-color:rgba(211, 211, 211, 0.65);
-}
-.myaudio{
-    height:50px;
-    outline:none;
-}
-.mytextarea{
-    border-radius:15px;
-    width:100%;
-    outline:none;
-    padding:0 1em 0 1em;
-}
+.mybutton{border-radius:4px; padding:0.1em 0.3em 0.1em 0.3em; background-color:gainsboro; border:1px solid gray; outline:none !important;}
+.mybutton:hover{background-color:rgba(211, 211, 211, 0.65);}
+.myaudio{height:50px; outline:none;}
+.mytextarea{border-radius:15px; width:100%; outline:none; padding:0 1em 0 1em;}
 .myselect{
     width:100px;
     height:30px;
@@ -143,9 +138,9 @@ hr.rounded {
 
 .tg  {border-collapse:collapse;border-spacing:0;margin:auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
+overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-3psh{background-color:#FFF;border-color:inherit;color:#24292F;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-nvaa{background-color:#FFF;border-color:inherit;color:#24292F;text-align:center;vertical-align:top}
 
