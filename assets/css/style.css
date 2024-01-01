@@ -1,5 +1,5 @@
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 992px) {
     /* For mobile phone */
 
     /* Top navigator */
@@ -54,7 +54,7 @@
     h3 {font-size:40px}
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 992px) {
     /* For desktop */
 
     /* Top navigator */
@@ -84,7 +84,7 @@
         color:white;
     }
     .footer-wrapper{
-        width:768px;margin-left:auto;margin-right:auto;
+        width:992px;margin-left:auto;margin-right:auto;
         padding-top:1em;padding-bottom:1em;
     }
 
