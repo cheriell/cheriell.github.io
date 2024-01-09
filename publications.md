@@ -3,11 +3,11 @@ layout: default
 title: Publications
 ---
 
-# Publications and preprints
+# Publications
 
 ---
 
-## <i class="fa fa-music" aria-hidden="true"></i> Publications
+## Publications
 
 - Lele Liu, Qiuqiang Kong, Veronica Morfi and Emmanouil Benetos, "[Performance MIDI-to-Score Conversion by Neural Beat Tracking](https://www.turing.ac.uk/sites/default/files/2022-09/midi_quantisation_paper_ismir_2022_0.pdf)," in Proceedings of the 23rd International Society for Music Information Retrieval Conference, Bengaluru, India, Dec 2022. **(Best paper award)**
 
@@ -23,6 +23,6 @@ title: Publications
 
 - Lele Liu and Emmanouil Benetos, "[Automatic Music Accompaniment with a Chroma-based Music Data Representation](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/62518/Liu%20Automatic%20Music%20Accompaniment%202019%20Accepted.pdf?sequence=2)," DMRN+14: Digital Music Research Network One-day Workshop, London, Dec 2019.
 
-## <i class="fa fa-music" aria-hidden="true"></i> Preprints
+## Reports
 
 - Adrien Ycart, Lele Liu, Emmanouil Benetos and Marcus T. Pearce. "[Musical features for automatic music transcription evaluation](https://arxiv.org/abs/2004.07171)," arXiv preprint arXiv:2004.07171, 2020.

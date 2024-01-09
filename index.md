@@ -6,26 +6,16 @@ title: Home
 # About
 
 ---
-
-PhD researcher in AI and Music
  
-<i class="fa fa-map-marker" aria-hidden="true"></i> London, UK
+PhD candidate <i class="fa fa-map-marker" aria-hidden="true"></i> Queen Mary University of London, UK
 
-<i class="fa fa-envelope" aria-hidden="true"></i> lele[dot]liu[at]qmul[dot]ac[dot]uk
-
-<i class="fa fa-twitter-square" aria-hidden="true"></i> [Twitter](https://twitter.com/liulelecherie)
-
-<i class="fa fa-github-square" aria-hidden="true"></i> [Github](https://github.com/cheriell)
-
-<i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn](https://www.linkedin.com/in/lele-liu-748a3a124/)
-
-<img src="./assets/image/icons8-google-scholar-50.png" style="width:1em"> [Google Scholar](https://scholar.google.com/citations?user=ZwFmzd8AAAAJ&hl=en)
+Research assistant <i class="fa fa-map-marker" aria-hidden="true"></i> University of Würzburg, Germany
 
 ---
 
-I am a research student in the [UKRI Centre for Doctoral Training in AI and Music (AIM CDT)](https://www.aim.qmul.ac.uk/) at [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/), [Queen Mary University of London](https://www.qmul.ac.uk/). My research project is in Automatic Music Transcription, under the supervision of [Dr. Emmanouil Benetos](https://www.eecs.qmul.ac.uk/~emmanouilb/), [Dr. Veronica Morfi](https://scholar.google.co.uk/citations?user=8izRvu4AAAAJ&hl=en), and [Prof. Simon Dixon](http://www.eecs.qmul.ac.uk/~simond/), supported by a China Scholarship Council and Queen Mary University of London joint PhD scholarship.
+## Introduction
 
-A large part of my research interest falls in the intersection of AI and music. Currently, my main research interest is in automated music audio-to-score transcription. I am developing algorithms that can transcribe music audio recordings into a readable score format, e.g. MusicXML.
+A large part of my research interest falls in the intersection of AI and music. Currently, my main research interest is in automatic music transcription. I am developing algorithms that can transcribe music audio recordings into a readable score format, e.g. MusicXML.
 
 More generally, I'm also interested in:
 
@@ -33,3 +23,19 @@ More generally, I'm also interested in:
 - Symbolic Music Modelling
 - Automatic Music Composition
 - Natural Language Processing
+
+---
+
+## Contact
+
+Universität Würzburg  
+Hubland Nord (ZPD)  
+Emil-Hilb-Weg 23  
+97074 Würzburg  
+Germany
+
+Building: ZPD  
+Room: 02.007
+
+E-Mail (Queen Mary): lele.liu [at] qmul.ac.uk  
+E-Mail (Würzburg): lele.liu [at] uni-wuerzburg.de

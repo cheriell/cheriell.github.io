@@ -50,7 +50,7 @@
         text-align:left;
     }
     h1 {font-size:60px}
-    h2 {font-size:50px}
+    h2 {font-size:40px}
     h3 {font-size:40px}
 }
 
@@ -59,7 +59,7 @@
 
     /* Top navigator */
     .nav-bar{background-color: rgb(35, 35, 35); position:absolute; width:100%; z-index:100;}
-    .nav-wrapper{width:100%;}
+    .nav-wrapper{width:992px;margin-left:auto;margin-right:auto;}
     .heading{color:white; text-align:left; padding-left:0.5em; font-family:Georgia; font-weight:bold;}
     .nav{padding:0.9em 2em 0.9em 2em; color:white; font-size:16px; font-weight:bold; text-align:center; display:inline-block;}
     .nav:hover{background-color:rgba(133, 143, 163, 0.65);}
@@ -104,6 +104,9 @@
         font-size:18px;
         text-align:left;
     }
+    h1 {font-size:32px}
+    h2 {font-size:18px}
+    h3 {font-size:18px}
 }
 
 /******************************* button **********************************/
@@ -121,16 +124,16 @@
 
 /********************************** Divider lines *****************************************/
 hr.dashed {
-    border-top: 2px dashed #bbb;
+    border-top: 2px dashed rgb(99, 99, 99);
 }
 hr.dotted {
-    border-top: 2px dotted #bbb;
+    border-top: 2px dotted rgb(99, 99, 99);
 }
 hr.solid {
-    border-top: 3px solid #bbb;
+    border-top: 3px solid rgb(99, 99, 99);
 }
 hr.rounded {
-    border-top: 8px solid #bbb;
+    border-top: 8px solid rgb(99, 99, 99);
     border-radius: 5px;
 }
 
@@ -152,12 +155,12 @@ h2 {
     font-weight:bold;
 }
 h3 {
-    font-weight:bold;
+    font-weight:bold;font-style: italic;
 }
 
 /*************************** Links style *****************************/
 
 a {
-    color:rgb(65, 29, 119);
+    color:rgb(6, 27, 95);
     text-decoration:none;
 }
