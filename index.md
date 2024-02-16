@@ -6,10 +6,10 @@ title: Home
 # About
 
 ---
- 
-PhD candidate <i class="fa fa-map-marker" aria-hidden="true"></i> Queen Mary University of London, UK
 
 Research assistant <i class="fa fa-map-marker" aria-hidden="true"></i> University of Würzburg, Germany
+ 
+PhD candidate <i class="fa fa-map-marker" aria-hidden="true"></i> Queen Mary University of London, UK
 
 ---
 
@@ -37,5 +37,5 @@ Germany
 Building: ZPD  
 Room: 02.007
 
+E-Mail (Würzburg): lele.liu [at] uni-wuerzburg.de  
 E-Mail (Queen Mary): lele.liu [at] qmul.ac.uk  
-E-Mail (Würzburg): lele.liu [at] uni-wuerzburg.de
