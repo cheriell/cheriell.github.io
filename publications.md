@@ -7,11 +7,11 @@ title: Publications
 
 ---
 
-- Lele Liu and Christof Weiss, "Utilizing cross-version consistency for domain adaptation: A case study on music audio," in Tiny Papers Track at International Conference on Learning Representations (Tiny Papers @ ICLR), May 2024. (accepted)
+- Lele Liu and Christof Weiss, "[Utilizing cross-version consistency for domain adaptation: A case study on music audio](https://openreview.net/forum?id=ZNg3YQQKWT)," in Tiny Papers Track at International Conference on Learning Representations (Tiny Papers @ ICLR), May 2024. Accepted (notable)
 
 - Giovanni Bindi, Nils Demerlé, Rodrigo Diaz, David Genova, Aliénor Golvet, Ben Hayes, Jiawen Huang, Lele Liu, Vincent Martos, Sarah Nabi, Teresa Pelinski, Lenny Renault, Saurjya Sarkar, Pedro Sarmento, Cyrus Vahidi, Lewis Wolstanholme, Yixiao Zhang, Axel Roebel, Nick Bryan-Kinns, Jean-Louis Giavitto, Mathieu Barthet, "[AI (r)evolution--where are we heading? Thoughts about the future of music and sound technologies in the era of deep learning](https://arxiv.org/abs/2310.18320)," arXiv preprint arXiv:2310.18320, 2023.
 
-- Lele Liu, Qiuqiang Kong, Veronica Morfi and Emmanouil Benetos, "[Performance MIDI-to-score conversion by neural beat tracking](https://www.turing.ac.uk/sites/default/files/2022-09/midi_quantisation_paper_ismir_2022_0.pdf)," in proceedings of the 23rd International Society for Music Information Retrieval (ISMIR) Conference, Bengaluru, India, Dec 2022. **(Best paper award)**
+- Lele Liu, Qiuqiang Kong, Veronica Morfi and Emmanouil Benetos, "[Performance MIDI-to-score conversion by neural beat tracking](https://www.turing.ac.uk/sites/default/files/2022-09/midi_quantisation_paper_ismir_2022_0.pdf)," in proceedings of the 23rd International Society for Music Information Retrieval (ISMIR) Conference, Bengaluru, India, Dec 2022. **Best paper award**
 
 - Lele Liu, Veronica Morfi and Emmanouil Benetos, "[ACPAS: A Dataset of aligned classical piano audio and scores for audio-to-score transcription](https://archives.ismir.net/ismir2021/latebreaking/000013.pdf)," International Society for Music Information Retrieval Conference Late-Breaking Demos Session (ISMIR-LBD), Nov 2021.
 
