@@ -7,7 +7,7 @@ title: Publications
 
 ---
 
-- Lele Liu and Christof Weiss, "[Utilizing cross-version consistency for domain adaptation: A case study on music audio](https://openreview.net/forum?id=ZNg3YQQKWT)," in Tiny Papers Track at International Conference on Learning Representations (Tiny Papers @ ICLR), May 2024.
+- Lele Liu and Christof Weiss, "[Utilizing cross-version consistency for domain adaptation: A case study on music audio](https://openreview.net/forum?id=ZNg3YQQKWT)," in Tiny Papers Track at International Conference on Learning Representations (Tiny Papers @ ICLR 2024 Notable), May 2024.
 
 - Giovanni Bindi, Nils Demerlé, Rodrigo Diaz, David Genova, Aliénor Golvet, Ben Hayes, Jiawen Huang, Lele Liu, Vincent Martos, Sarah Nabi, Teresa Pelinski, Lenny Renault, Saurjya Sarkar, Pedro Sarmento, Cyrus Vahidi, Lewis Wolstanholme, Yixiao Zhang, Axel Roebel, Nick Bryan-Kinns, Jean-Louis Giavitto, Mathieu Barthet, "[AI (r)evolution--where are we heading? Thoughts about the future of music and sound technologies in the era of deep learning](https://arxiv.org/abs/2310.18320)," arXiv preprint arXiv:2310.18320, 2023.
 
