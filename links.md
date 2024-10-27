@@ -7,8 +7,6 @@ title: Publications
 
 ---
 
-<i class="fa fa-twitter-square" aria-hidden="true"></i> [Twitter](https://twitter.com/liulelecherie)
-
 <i class="fa fa-github-square" aria-hidden="true"></i> [Github](https://github.com/cheriell)
 
 <i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn](https://www.linkedin.com/in/lele-liu-748a3a124/)
