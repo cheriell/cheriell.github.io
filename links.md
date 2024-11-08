@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications
+title: Links
 ---
 
 # Links
@@ -19,14 +19,16 @@ title: Publications
 
 [University of Würzburg](https://www.uni-wuerzburg.de/), Würzburg, German
 
-- [Center for Artificial Intelligence and Data Science](https://www.caidas.uni-wuerzburg.de/)
-- [Computational Humanities](https://www.informatik.uni-wuerzburg.de/ch/)
+- [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.caidas.uni-wuerzburg.de/)
+- [Computational Humanities (CH)](https://www.informatik.uni-wuerzburg.de/ch/)
+- [Natural Language Processing (WüNLP)](https://www.caidas.uni-wuerzburg.de/nlp/)
 
-[Queen Mary University of London](https://www.qmul.ac.uk/), London, UK
+[Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/), London, UK
 
-- [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/)
+- [Centre for Digital Music (C4DM)](http://c4dm.eecs.qmul.ac.uk/)
 - [UKRI Centre for Doctoral Training in AI and Music (AIM CDT)](https://www.aim.qmul.ac.uk/)
 - [Machine Listening Lab](https://machine-listening.eecs.qmul.ac.uk/)
+- [Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/)
 
 ---
 

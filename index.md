@@ -21,7 +21,6 @@ More generally, I'm also interested in:
 
 - Music Information Retreival
 - Symbolic Music Modelling
-- Automatic Music Composition
 - Natural Language Processing
 
 ---
