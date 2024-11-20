@@ -7,21 +7,25 @@ title: Home
 
 ---
 
-Research assistant <i class="fa fa-map-marker" aria-hidden="true"></i> University of Würzburg, Germany
+Research assistant <i class="fa fa-map-marker" aria-hidden="true"></i>  
+[Computational Humanities (CH)](https://www.informatik.uni-wuerzburg.de/ch/) & [Natural Language Processing (WüNLP)](https://www.caidas.uni-wuerzburg.de/nlp/)  
+University of Würzburg  
+Germany
  
-PhD candidate <i class="fa fa-map-marker" aria-hidden="true"></i> Queen Mary University of London, UK
+PhD candidate <i class="fa fa-map-marker" aria-hidden="true"></i>  
+[Centre for Digital Music (C4DM)](http://c4dm.eecs.qmul.ac.uk/)  
+Queen Mary University of London  
+UK
 
----
+<!-- ---
 
-## Introduction
+## Research interests
 
-A large part of my research interest falls in the intersection of AI and music. Currently, my main research interest is in automatic music transcription. I am developing algorithms that can transcribe music audio recordings into a readable score format, e.g. MusicXML.
-
-More generally, I'm also interested in:
+I am generally interested in:
 
 - Music Information Retreival
-- Symbolic Music Modelling
 - Natural Language Processing
+- Symbolic Music Modelling -->
 
 ---
 
