@@ -7,25 +7,27 @@ title: Home
 
 ---
 
-Research assistant <i class="fa fa-map-marker" aria-hidden="true"></i>  
-[Computational Humanities (CH)](https://www.informatik.uni-wuerzburg.de/ch/) & [Natural Language Processing (WüNLP)](https://www.caidas.uni-wuerzburg.de/nlp/)  
+<i class="fa fa-github-square" aria-hidden="true"></i> [Github](https://github.com/cheriell)
+
+<i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn](https://www.linkedin.com/in/lele-liu-748a3a124/)
+
+<img src="./assets/image/icons8-google-scholar-50.png" style="width:1em"> [Google Scholar](https://scholar.google.com/citations?user=ZwFmzd8AAAAJ&hl=en)
+
+---
+
+Research assistant  
+<i class="fa fa-map-marker" aria-hidden="true"></i>  
+[Computational Humanities (CH)](https://www.informatik.uni-wuerzburg.de/ch/)  
+[Natural Language Processing (WüNLP)](https://www.caidas.uni-wuerzburg.de/nlp/)  
+[Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.caidas.uni-wuerzburg.de/)
 University of Würzburg  
 Germany
  
-PhD candidate <i class="fa fa-map-marker" aria-hidden="true"></i>  
+PhD candidate  
+<i class="fa fa-map-marker" aria-hidden="true"></i>  
 [Centre for Digital Music (C4DM)](http://c4dm.eecs.qmul.ac.uk/)  
 Queen Mary University of London  
 UK
-
-<!-- ---
-
-## Research interests
-
-I am generally interested in:
-
-- Music Information Retreival
-- Natural Language Processing
-- Symbolic Music Modelling -->
 
 ---
 

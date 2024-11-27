@@ -7,14 +7,6 @@ title: Links
 
 ---
 
-<i class="fa fa-github-square" aria-hidden="true"></i> [Github](https://github.com/cheriell)
-
-<i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn](https://www.linkedin.com/in/lele-liu-748a3a124/)
-
-<img src="./assets/image/icons8-google-scholar-50.png" style="width:1em"> [Google Scholar](https://scholar.google.com/citations?user=ZwFmzd8AAAAJ&hl=en)
-
----
-
 ## Current lab/group affiliations
 
 [University of Würzburg](https://www.uni-wuerzburg.de/), Würzburg, German
@@ -34,13 +26,13 @@ title: Links
 
 ## Past lab/group affiliations
 
-[University of Alicante](https://www.ua.es/en/), Alicante, Spain
+Research visit at [University of Alicante](https://www.ua.es/en/), Alicante, Spain
 
 - Grupo de Reconocimiento de Formas e Inteligencia Artificial
 
-[The Alan Turing Institute](https://www.turing.ac.uk/), London, UK
+Enrichment scheme student at [The Alan Turing Institute](https://www.turing.ac.uk/), London, UK
 
-[ByteDance](https://www.bytedance.com/en/), London, UK
+Research internship at [ByteDance](https://www.bytedance.com/en/), London, UK
 
 - SAMI (Speech, Audio & Music Intelligence) team, AI Research Lab
 
