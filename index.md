@@ -15,16 +15,14 @@ title: Home
 
 ---
 
-Research assistant  
-<i class="fa fa-map-marker" aria-hidden="true"></i>  
+**Research assistant**  
 [Computational Humanities (CH)](https://www.informatik.uni-wuerzburg.de/ch/)  
 [Natural Language Processing (WüNLP)](https://www.caidas.uni-wuerzburg.de/nlp/)  
-[Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.caidas.uni-wuerzburg.de/)
+[Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.caidas.uni-wuerzburg.de/)  
 University of Würzburg  
 Germany
  
-PhD candidate  
-<i class="fa fa-map-marker" aria-hidden="true"></i>  
+**PhD candidate**  
 [Centre for Digital Music (C4DM)](http://c4dm.eecs.qmul.ac.uk/)  
 Queen Mary University of London  
 UK
