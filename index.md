@@ -19,12 +19,14 @@ title: Home
 [Computational Humanities (CH)](https://www.informatik.uni-wuerzburg.de/ch/)  
 [Natural Language Processing (WüNLP)](https://www.caidas.uni-wuerzburg.de/nlp/)  
 [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.caidas.uni-wuerzburg.de/)  
-University of Würzburg  
+[University of Würzburg](https://www.uni-wuerzburg.de/)  
+Würzburg  
 Germany
  
 **PhD candidate**  
 [Centre for Digital Music (C4DM)](http://c4dm.eecs.qmul.ac.uk/)  
-Queen Mary University of London  
+[Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/)  
+London  
 UK
 
 ---
