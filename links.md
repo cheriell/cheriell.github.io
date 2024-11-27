@@ -13,6 +13,7 @@ Research assistant at [University of Würzburg](https://www.uni-wuerzburg.de/), 
 - [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.caidas.uni-wuerzburg.de/)
 - [Computational Humanities (CH)](https://www.informatik.uni-wuerzburg.de/ch/)
 - [Natural Language Processing (WüNLP)](https://www.caidas.uni-wuerzburg.de/nlp/)
+- [Centre for Philology and Digitality (ZPD)](https://www.uni-wuerzburg.de/zpd/)
 
 PhD candidate at [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/), London, UK
 - [Centre for Digital Music (C4DM)](http://c4dm.eecs.qmul.ac.uk/)
