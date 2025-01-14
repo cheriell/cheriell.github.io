@@ -15,7 +15,7 @@ title: Home
 
 ---
 
-**Research assistant**  
+**PostDoc Research assistant**  
 [Computational Humanities (CH)](https://www.informatik.uni-wuerzburg.de/ch/)  
 [Natural Language Processing (WüNLP)](https://www.caidas.uni-wuerzburg.de/nlp/)  
 [University of Würzburg](https://www.uni-wuerzburg.de/)  
