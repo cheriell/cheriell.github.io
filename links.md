@@ -9,7 +9,7 @@ title: Links
 
 ## Current affiliations
 
-Research assistant at [University of Würzburg](https://www.uni-wuerzburg.de/), Würzburg, Germany
+PostDoc research assistant at [University of Würzburg](https://www.uni-wuerzburg.de/), Würzburg, Germany
 - [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.caidas.uni-wuerzburg.de/)
 - [Computational Humanities (CH)](https://www.informatik.uni-wuerzburg.de/ch/)
 - [Natural Language Processing (WüNLP)](https://www.caidas.uni-wuerzburg.de/nlp/)
