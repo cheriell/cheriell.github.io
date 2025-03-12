@@ -7,7 +7,7 @@ title: Publications
 
 ---
 
-- **Lele Liu** and Christof Weiß, "Unsupervised Domain Adaptation for Music Transcription: Exploiting Cross-Version Consistency," in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. (accepted)
+- **Lele Liu** and Christof Weiß, "[Unsupervised Domain Adaptation for Music Transcription: Exploiting Cross-Version Consistency](https://ieeexplore.ieee.org/document/10889474)," in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. (accepted)
 
 - **Lele Liu** and Christof Weiß, "[Utilizing cross-version consistency for domain adaptation: A case study on music audio](https://openreview.net/forum?id=ZNg3YQQKWT)," in Tiny Papers Track at International Conference on Learning Representations (Tiny Papers @ ICLR 2024), May 2024. **(Notable mention)**
 
