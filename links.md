@@ -30,5 +30,5 @@ PhD candidate at [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk
 PhD enrichment scheme student at [The Alan Turing Institute](https://www.turing.ac.uk/), London, UK
 
 Research internship at [ByteDance](https://www.bytedance.com/en/), London, UK
-- Mentor: [Prof. Qiuqiang Kong](https://qiuqiangkong.github.io/)
+- Mentor: [Dr. Qiuqiang Kong](https://qiuqiangkong.github.io/)
 - SAMI (Speech, Audio & Music Intelligence) team, AI Research Lab
