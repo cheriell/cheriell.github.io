@@ -5,4 +5,7 @@ title: Notes
 
 # Notes
 
-- [HPC in Wuerzburg](./notes/HPC_Wuerzburg)
+- [HPC in Wuerzburg](./HPC_Wuerzburg)
+
+
+
