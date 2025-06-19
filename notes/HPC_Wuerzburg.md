@@ -5,7 +5,7 @@ title: HPC in Wuerzburg
 
 # Summary
 
-
+```markdown
 | Partition | GPUs    | GPU RAM | CPUs | mem     | tmpfs    | Nodes              | Host   |
 | --------- | ------- | ------- | ---- | ------- | -------- | ------------------ | ------ |
 | test      | 2x L40  | 48 GB   | 240  | 480 GB  | 3380 GB  | 1: jntest01        | Julia2 |
@@ -18,3 +18,5 @@ title: HPC in Wuerzburg
 | h100      | 8x H100 | 80 GB   | 224  | 1984 GB | 14300 GB | 2: jnultra[01-02]  | Julia2 |
 |           |         |         |      |         |          |                    |        |
 | dc-hwai   | 4x H100 | 128 GB  | 64   | ~502 GB | --       | 32: jrc[0910-0941] | Jureca |
+```
+
