@@ -3,7 +3,9 @@ layout: default
 title: HPC in Wuerzburg
 ---
 
-# Summary
+# HPC in Wuerzburg
+
+## Summary
 
 ```markdown
 | Partition | GPUs    | GPU RAM | CPUs | mem     | tmpfs    | Nodes              | Host   |
