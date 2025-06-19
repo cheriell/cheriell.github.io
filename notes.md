@@ -5,4 +5,4 @@ title: Notes
 
 # Notes
 
-- HPC in Wuerzburg [link](./notes/HPC_Wuerzburg)
+- [HPC in Wuerzburg](./notes/HPC_Wuerzburg)
