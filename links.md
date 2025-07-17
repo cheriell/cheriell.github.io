@@ -32,3 +32,7 @@ PhD enrichment scheme student at [The Alan Turing Institute](https://www.turing.
 Research internship at [ByteDance](https://www.bytedance.com/en/), London, UK
 - _Mentor_: [Dr. Qiuqiang Kong](https://qiuqiangkong.github.io/)
 - SAMI (Speech, Audio & Music Intelligence) team, AI Research Lab
+
+MSc at [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/), London, UK
+
+BSc at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), Beijing, China
