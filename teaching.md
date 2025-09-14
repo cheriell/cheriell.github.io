@@ -7,6 +7,23 @@ title: Teaching
 
 ---
 
+## University of Würzburg
+
+**Summer 2025**
+- Music Information Retrieval (MSc & MA), co-lecturer
+
+**Winter 2024**
+- Music Processing Seminar (MSc & MA), co-lecturer
+            
+**Summer 2024**
+- Music Information Retrieval (MSc & MA), co-lecturer
+
+**Winter 2023**
+- Music Processing Seminar (MSc & MA), co-lecturer
+- Music Transcription Seminar (MSc & MA), lecturer
+
+---
+
 ## Queen Mary University of London
 
 **Spring 2023**
