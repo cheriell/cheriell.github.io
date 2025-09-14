@@ -26,7 +26,7 @@ title: CV
 | 01.2022-12.2022   | &nbsp;&nbsp;&nbsp;&nbsp;  | Enrichment PhD student |
 |                   | | The Alan Turing Institutem, UK |
 | 09.2017-09.2018   | &nbsp;&nbsp;&nbsp;&nbsp;  | MSc in Sound and Music Computing |
-|                   | |Queen Mary University of London, UK |
+|                   | | Queen Mary University of London, UK |
 | 09.2013-06.2017   | &nbsp;&nbsp;&nbsp;&nbsp;  | BSc in Telecommunications Engineering with Management |
 |                   | | Beijing University of Posts and Telecommunications, China |
 |                   | | Queen Mary University of London, UK |
@@ -37,11 +37,18 @@ title: CV
 
 |       |                           |     |
 |:----- |:------------------------- |:--- |
-| 2023  | &nbsp;&nbsp;&nbsp;&nbsp;  | International research visitor fund, University of Alicante |
-| 2022  | &nbsp;&nbsp;&nbsp;&nbsp;  | Best paper award, International Society for Music Information Retrieval Conference |
-| 2021  | &nbsp;&nbsp;&nbsp;&nbsp;  | Enrichment Scheme Award, The Alan Turing Institute |
+| 2023  | &nbsp;&nbsp;&nbsp;&nbsp;  | International research visitor fund |
+|       | | University of Alicante |
+| 2022  | &nbsp;&nbsp;&nbsp;&nbsp;  | Best paper award |
+|       | | International Society for Music Information Retrieval Conference |
+| 2021  | &nbsp;&nbsp;&nbsp;&nbsp;  | Enrichment Scheme Award |
+|       | | The Alan Turing Institute |
 | 2019  | &nbsp;&nbsp;&nbsp;&nbsp;  | QMUL and CSC Joint PhD Scholarship |
-| 2017  | &nbsp;&nbsp;&nbsp;&nbsp;  | International Science and Engineering Excellence Award, Queen Mary University of London |
-| 2016  | &nbsp;&nbsp;&nbsp;&nbsp;  | International Science and Engineering Excellence Award, Queen Mary University of London |
-| 2015  | &nbsp;&nbsp;&nbsp;&nbsp;  | The first class scholarship, Beijing University of Posts and Telecommunications |
-| 2014  | &nbsp;&nbsp;&nbsp;&nbsp;  | National Scholarship, Ministry of Education of the People's Republic of China |
+| 2017  | &nbsp;&nbsp;&nbsp;&nbsp;  | International Science and Engineering Excellence Award |
+|       | | Queen Mary University of London |
+| 2016  | &nbsp;&nbsp;&nbsp;&nbsp;  | International Science and Engineering Excellence Award |
+|       | | Queen Mary University of London |
+| 2015  | &nbsp;&nbsp;&nbsp;&nbsp;  | The first class scholarship |
+|       | | Beijing University of Posts and Telecommunications |
+| 2014  | &nbsp;&nbsp;&nbsp;&nbsp;  | National Scholarship |
+|       | | Ministry of Education of the People's Republic of China |
