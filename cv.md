@@ -28,5 +28,15 @@ title: CV
 
 ---
 
-## Awards
+## Awards, scholarships and fundings
 
+|       |                           |     |
+|:----- |:------------------------- |:--- |
+| 2023  | &nbsp;&nbsp;&nbsp;&nbsp;  | International research visitor fund, University of Alicante |
+| 2022  | &nbsp;&nbsp;&nbsp;&nbsp;  | Best paper award, International Society for Music Information Retrieval Conference |
+| 2021  | &nbsp;&nbsp;&nbsp;&nbsp;  | Enrichment Scheme Award, The Alan Turing Institute |
+| 2019-2023 | &nbsp;&nbsp;&nbsp;&nbsp;  | QMUL and CSC Joint PhD Scholarship |
+| 2017  | &nbsp;&nbsp;&nbsp;&nbsp;  | International Science and Engineering Excellence Award, Queen Mary University of London |
+| 2016  | &nbsp;&nbsp;&nbsp;&nbsp;  | International Science and Engineering Excellence Award, Queen Mary University of London |
+| 2015  | &nbsp;&nbsp;&nbsp;&nbsp;  | The first class scholarship, Beijing University of Posts and Telecommunications |
+| 2014  | &nbsp;&nbsp;&nbsp;&nbsp;  | National Scholarship, Ministry of Education of the People's Republic of China |
