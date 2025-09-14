@@ -7,6 +7,14 @@ title: Links
 
 ---
 
+## Institutional profiles
+
+- [University of Würzburg](https://www.caidas.uni-wuerzburg.de/ch/team/lele-liu/)
+- [The Alan Turing Institute](https://www.turing.ac.uk/people/enrichment-students/lele-liu)
+- [Queen Mary University of London](https://www.qmul.ac.uk/eecs/people/profiles/liulele.html)
+
+---
+
 ## Current affiliations
 
 Research assistant at [University of Würzburg](https://www.uni-wuerzburg.de/), Würzburg, Germany
