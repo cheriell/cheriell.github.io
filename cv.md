@@ -64,3 +64,27 @@ title: CV
 | 2020  | &nbsp;&nbsp;&nbsp;&nbsp;  | Workshop organiser, DMRN workshop, UK |
 | 2020 -- 2023 | &nbsp;&nbsp;&nbsp;&nbsp;  | Student representative, AIM CDT, QMUL, UK |
 | 2019 -- 2023 | &nbsp;&nbsp;&nbsp;&nbsp;  | Seminar organiser, C4DM seminars, QMUL, UK |
+
+---
+
+## Peer Review
+
+Conferences/Workshops
+
+- International Society for Music Information Retrieval (ISMIR) Conference
+- IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+- IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)
+- International Joint Conference on Neural Networks (IJCNN)
+- Workshop on Large Language Models for Music \& Audio (LLM4MA) @ ISMIR Satellite Workshops
+
+Journals
+
+- Transactions of the International Society for Music Information Retrieval (TISMIR)
+- PeerJ Computer Science
+- Computer Music Journal
+
+---
+
+## Invited talks
+
+
