@@ -67,7 +67,7 @@ title: CV
 
 ---
 
-## Peer Review
+## Peer review
 
 Conferences/Workshops
 
@@ -87,4 +87,15 @@ Journals
 
 ## Invited talks
 
-
+|           |                           |     |
+|:--------- |:------------------------- |:--- |
+| Jul 2024 | &nbsp;&nbsp;&nbsp;&nbsp;  | Stimulus talk: Dual-domain beat tracking |
+|           | &nbsp;&nbsp;&nbsp;&nbsp;  | Panel talk: Cultural differences in education systems |
+|           | &nbsp;&nbsp;&nbsp;&nbsp;  | Panel talk: Cultivating expertise: Sustainable approaches to learning and research in MIR |
+|           | | Dagstuhl seminar: Learning with Music Signals: Technology Meets Education, Germany |
+| May 2023  | &nbsp;&nbsp;&nbsp;&nbsp;  | Sequence modelling for audio-to-score music transcription |
+|           | | Sequences in London Workshop, UK |
+| Mar 2023 | &nbsp;&nbsp;&nbsp;&nbsp;  | From audio to music notation: Transcribing music recordings into readable scores |
+|           | | Research visit at University of Alicante, Spain |
+| Dec 2023 | &nbsp;&nbsp;&nbsp;&nbsp;  | Panel talk: Special session of PhD in MIR: Challenges and opportunities |
+|           | | ISMIR conference, online |
