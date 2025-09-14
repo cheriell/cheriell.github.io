@@ -9,8 +9,6 @@ title: Links
 
 ## Institutional profiles
 
-<br>
-
 - [University of Würzburg](https://www.caidas.uni-wuerzburg.de/ch/team/lele-liu/)
 - [The Alan Turing Institute](https://www.turing.ac.uk/people/enrichment-students/lele-liu)
 - [Queen Mary University of London](https://www.qmul.ac.uk/eecs/people/profiles/liulele.html)
@@ -18,8 +16,6 @@ title: Links
 ---
 
 ## Current affiliations
-
-<br>
 
 Research assistant at [University of Würzburg](https://www.uni-wuerzburg.de/), Würzburg, Germany
 - _Supervisors_: [Prof. Dr. Christof Weiß](https://www.christofweiss.com/pages/works.html) and [Prof. Dr. Goran Glavaš](https://sites.google.com/view/goranglavas)
@@ -38,8 +34,6 @@ PhD candidate at [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk
 ---
 
 ## Past affiliations
-
-<br>
 
 PhD enrichment scheme student at [The Alan Turing Institute](https://www.turing.ac.uk/), London, UK
 

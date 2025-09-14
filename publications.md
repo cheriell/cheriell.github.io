@@ -9,15 +9,11 @@ title: Publications
 
 ## Book chapter
 
-<br>
-
 - **Lele Liu** and Emmanouil Benetos, "[From audio to music notation](https://link.springer.com/chapter/10.1007/978-3-030-72116-9_24)," in Handbook of Artificial Intelligence for Music, E. Miranda (ed.), pp. 693-714, Springer, 2021 (ISBN: 978-3-030-72115-2).
 
 ---
 
 ## Journal papers
-
-<br>
 
 - Ching-Yu Chiu, **Lele Liu**, Christof Weiß and Meinard Müller, "[Cross-modal approaches to beat tracking: A case study on Chopin Mazurkas](https://transactions.ismir.net/articles/10.5334/tismir.238)," Transactions of the International Society for Music Information Retrieval (TISMIR), 8(1):55–69, 2025.
 
@@ -26,8 +22,6 @@ title: Publications
 ---
 
 ## Conference/workshop papers
-
-<br>
 
 - **Lele Liu** and Christof Weiß, "[Unsupervised domain adaptation for music transcription: Exploiting cross-version consistency](https://ieeexplore.ieee.org/document/10889474)," in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.
 
@@ -46,8 +40,6 @@ title: Publications
 ---
 
 ## Preprints & reports
-
-<br>
 
 - Giovanni Bindi, Nils Demerlé, Rodrigo Diaz, David Genova, Aliénor Golvet, Ben Hayes, Jiawen Huang, **Lele Liu**, Vincent Martos, Sarah Nabi, Teresa Pelinski, Lenny Renault, Saurjya Sarkar, Pedro Sarmento, Cyrus Vahidi, Lewis Wolstanholme, Yixiao Zhang, Axel Roebel, Nick Bryan-Kinns, Jean-Louis Giavitto, Mathieu Barthet, "[AI (r)evolution--where are we heading? Thoughts about the future of music and sound technologies in the era of deep learning](https://arxiv.org/abs/2310.18320)," arXiv preprint arXiv:2310.18320, 2023.
 
