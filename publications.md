@@ -7,17 +7,17 @@ title: Publications
 
 ---
 
-- Ching-Yu Chiu, **Lele Liu**, Christof Weiß and Meinard Müller, "[Cross-modal approaches to beat tracking: A case study on Chopin Mazurkas](https://transactions.ismir.net/articles/10.5334/tismir.238)," Transactions of the International Society for Music Information Retrieval (TISMIR), 2025.
+- Ching-Yu Chiu, **Lele Liu**, Christof Weiß and Meinard Müller, "[Cross-modal approaches to beat tracking: A case study on Chopin Mazurkas](https://transactions.ismir.net/articles/10.5334/tismir.238)," Transactions of the International Society for Music Information Retrieval (TISMIR), 8(1):55–69, 2025.
 
 - **Lele Liu** and Christof Weiß, "[Unsupervised domain adaptation for music transcription: Exploiting cross-version consistency](https://ieeexplore.ieee.org/document/10889474)," in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.
 
-- **Lele Liu** and Christof Weiß, "[Utilizing cross-version consistency for domain adaptation: A case study on music audio](https://openreview.net/forum?id=ZNg3YQQKWT)," in Tiny Papers Track at International Conference on Learning Representations (Tiny Papers @ ICLR 2024), May 2024. **(Notable mention)**
+- **Lele Liu** and Christof Weiß, "[Utilizing cross-version consistency for domain adaptation: A case study on music audio](https://openreview.net/forum?id=ZNg3YQQKWT)," in Tiny Papers Track at International Conference on Learning Representations (Tiny Papers @ ICLR 2024), May 2024. **Notable (oral)**
 
 - Giovanni Bindi, Nils Demerlé, Rodrigo Diaz, David Genova, Aliénor Golvet, Ben Hayes, Jiawen Huang, **Lele Liu**, Vincent Martos, Sarah Nabi, Teresa Pelinski, Lenny Renault, Saurjya Sarkar, Pedro Sarmento, Cyrus Vahidi, Lewis Wolstanholme, Yixiao Zhang, Axel Roebel, Nick Bryan-Kinns, Jean-Louis Giavitto, Mathieu Barthet, "[AI (r)evolution--where are we heading? Thoughts about the future of music and sound technologies in the era of deep learning](https://arxiv.org/abs/2310.18320)," arXiv preprint arXiv:2310.18320, 2023.
 
-- **Lele Liu**, Qiuqiang Kong, Veronica Morfi and Emmanouil Benetos, "[Performance MIDI-to-score conversion by neural beat tracking](https://www.turing.ac.uk/sites/default/files/2022-09/midi_quantisation_paper_ismir_2022_0.pdf)," in proceedings of the International Society for Music Information Retrieval (ISMIR) Conference, Bengaluru, India, Dec 2022. **(Best paper award)**
+- **Lele Liu**, Qiuqiang Kong, Veronica Morfi and Emmanouil Benetos, "[Performance MIDI-to-score conversion by neural beat tracking](https://www.turing.ac.uk/sites/default/files/2022-09/midi_quantisation_paper_ismir_2022_0.pdf)," in proceedings of the International Society for Music Information Retrieval (ISMIR) Conference, Bengaluru, India, Dec 2022. **Best paper award**
 
-- **Lele Liu**, Veronica Morfi and Emmanouil Benetos, "[ACPAS: A Dataset of aligned classical piano audio and scores for audio-to-score transcription](https://archives.ismir.net/ismir2021/latebreaking/000013.pdf)," International Society for Music Information Retrieval Conference Late-Breaking Demos Session (ISMIR-LBD), Nov 2021.
+- **Lele Liu**, Veronica Morfi and Emmanouil Benetos, "[ACPAS: A Dataset of aligned classical piano audio and scores for audio-to-score transcription](https://archives.ismir.net/ismir2021/latebreaking/000013.pdf)," in International Society for Music Information Retrieval Conference Late-Breaking Demos Session (ISMIR-LBD), Nov 2021.
 
 - **Lele Liu** and Emmanouil Benetos, "[From audio to music notation](https://link.springer.com/chapter/10.1007/978-3-030-72116-9_24)," in Handbook of Artificial Intelligence for Music, E. Miranda (ed.), pp. 693-714, Springer, 2021 (ISBN: 978-3-030-72115-2).
 
