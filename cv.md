@@ -11,9 +11,9 @@ title: CV
 
 |                       |                           |       |
 |:--------------------- |:------------------------- |:----- |
-| 10.2023-Present    | &nbsp;&nbsp;&nbsp;&nbsp;  | Research assistant, University of Würzburg, Germany |
-| 10.2021-12.2021    | &nbsp;&nbsp;&nbsp;&nbsp;  | Research internship, ByteDance, UK |
-| 10.2018-06.2019    | &nbsp;&nbsp;&nbsp;&nbsp;  | Web engineer, Winery Group, China |
+| 10.2023 -- Present    | &nbsp;&nbsp;&nbsp;&nbsp;  | Research assistant, University of Würzburg, Germany |
+| 10.2021 -- 12.2021    | &nbsp;&nbsp;&nbsp;&nbsp;  | Research internship, ByteDance, UK |
+| 10.2018 -- 06.2019    | &nbsp;&nbsp;&nbsp;&nbsp;  | Web engineer, Winery Group, China |
 
 ---
 
@@ -21,13 +21,13 @@ title: CV
 
 |                   |                           |       |
 |:----------------- |:------------------------- |:----- |
-| 09.2019-Present   | &nbsp;&nbsp;&nbsp;&nbsp;  | PhD in Artificial Intelligence and Music |
+| 09.2019 -- Present| &nbsp;&nbsp;&nbsp;&nbsp;  | PhD in Artificial Intelligence and Music |
 |                   | | Queen Mary University of London, UK |
-| 01.2022-12.2022   | &nbsp;&nbsp;&nbsp;&nbsp;  | Enrichment PhD student |
+| 01.2022 -- 12.2022| &nbsp;&nbsp;&nbsp;&nbsp;  | Enrichment PhD student |
 |                   | | The Alan Turing Institutem, UK |
-| 09.2017-09.2018   | &nbsp;&nbsp;&nbsp;&nbsp;  | MSc in Sound and Music Computing |
+| 09.2017 -- 09.2018| &nbsp;&nbsp;&nbsp;&nbsp;  | MSc in Sound and Music Computing |
 |                   | | Queen Mary University of London, UK |
-| 09.2013-06.2017   | &nbsp;&nbsp;&nbsp;&nbsp;  | BSc in Telecommunications Engineering with Management |
+| 09.2013 -- 06.2017| &nbsp;&nbsp;&nbsp;&nbsp;  | BSc in Telecommunications Engineering with Management |
 |                   | | Beijing University of Posts and Telecommunications, China |
 |                   | | Queen Mary University of London, UK |
 
@@ -43,7 +43,7 @@ title: CV
 |       | | International Society for Music Information Retrieval Conference |
 | 2021  | &nbsp;&nbsp;&nbsp;&nbsp;  | Enrichment Scheme Award |
 |       | | The Alan Turing Institute |
-| 2019  | &nbsp;&nbsp;&nbsp;&nbsp;  | QMUL and CSC Joint PhD Scholarship |
+| 2019 -- 2023  | &nbsp;&nbsp;&nbsp;&nbsp;  | QMUL and CSC Joint PhD Scholarship |
 | 2017  | &nbsp;&nbsp;&nbsp;&nbsp;  | International Science and Engineering Excellence Award |
 |       | | Queen Mary University of London |
 | 2016  | &nbsp;&nbsp;&nbsp;&nbsp;  | International Science and Engineering Excellence Award |
@@ -52,3 +52,15 @@ title: CV
 |       | | Beijing University of Posts and Telecommunications |
 | 2014  | &nbsp;&nbsp;&nbsp;&nbsp;  | National Scholarship |
 |       | | Ministry of Education of the People's Republic of China |
+
+---
+
+## Services
+
+|       |                           |     |
+|:----- |:------------------------- |:--- |
+| 2024  | &nbsp;&nbsp;&nbsp;&nbsp;  | Online volunteer, ISMIR conference, online |
+| 2021  | &nbsp;&nbsp;&nbsp;&nbsp;  | Lab showcase chair, ISMIR conference, online |
+| 2020  | &nbsp;&nbsp;&nbsp;&nbsp;  | Workshop organiser, DMRN workshop, UK |
+| 2020 -- 2023 | &nbsp;&nbsp;&nbsp;&nbsp;  | Student representative, AIM CDT, QMUL, UK |
+| 2019 -- 2023 | &nbsp;&nbsp;&nbsp;&nbsp;  | Seminar organiser, C4DM seminars, QMUL, UK |
