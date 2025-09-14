@@ -33,7 +33,8 @@ UK
 ## Contact
 
 Universität Würzburg  
-Hubland Nord (ZPD)  
+Centre for Philology and Digitality (ZPD)  
+Hubland Nord  
 Emil-Hilb-Weg 23  
 97074 Würzburg  
 Germany
@@ -42,4 +43,4 @@ Building: ZPD
 Room: 02.007
 
 E-Mail (Würzburg): lele.liu [at] uni-wuerzburg.de  
-E-Mail (Queen Mary): lele.liu [at] qmul.ac.uk  
+E-Mail (Queen Mary): lele.liu [at] qmul.ac.uk
