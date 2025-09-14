@@ -32,8 +32,6 @@ UK
 
 ## Contact
 
----
-
 Universität Würzburg  
 Centre for Philology and Digitality (ZPD)  
 Hubland Nord  
