@@ -9,19 +9,13 @@ title: Teaching
 
 ## University of Würzburg
 
-| | |
-|:--- |:--- |
-| Summer 2025 &nbsp;&nbsp; | Music Information Retrieval (MSc & MA), co-lecturer |
-
-**Winter 2024**
-- Music Processing Seminar (MSc & MA), co-lecturer
-            
-**Summer 2024**
-- Music Information Retrieval (MSc & MA), co-lecturer
-
-**Winter 2023**
-- Music Processing Seminar (MSc & MA), co-lecturer
-- Music Transcription Seminar (MSc & MA), lecturer
+|               |                           |       |
+|:------------- |:------------------------- |:----- |
+| Summer 2025   | &nbsp;&nbsp;&nbsp;&nbsp;  | Music Information Retrieval (MSc & MA), co-lecturer |
+| Winter 2024   | &nbsp;&nbsp;&nbsp;&nbsp;  | Music Processing Seminar (MSc & MA), co-lecturer |
+| Summer 2024   | &nbsp;&nbsp;&nbsp;&nbsp;  | Music Information Retrieval (MSc & MA), co-lecturer |
+| Winter 2023   | &nbsp;&nbsp;&nbsp;&nbsp;  | Music Processing Seminar (MSc & MA), co-lecturer |
+|               | &nbsp;&nbsp;&nbsp;&nbsp;  | Music Transcription Seminar (MSc & MA), lecturer |
 
 ---
 
