@@ -1,5 +1,7 @@
 - name: Home
   link: /
+- name: CV
+  link: /cv
 - name: Publications
   link: /publications
 - name: Teaching
