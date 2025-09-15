@@ -31,7 +31,8 @@ title: CV
 | 09.2017-09.2018   | | MSc in Sound and Music Computing |
 |                   | | Queen Mary University of London, UK |
 | 09.2013-06.2017   | | BSc in Telecommunications Engineering with Management |
-|                   | | Beijing University of Posts and Telecommunications, China and Queen Mary University of London, UK |
+|                   | | Beijing University of Posts and Telecommunications, China & |
+|                   | | Queen Mary University of London, UK |
 
 ---
 
