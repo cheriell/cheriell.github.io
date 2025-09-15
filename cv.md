@@ -31,8 +31,7 @@ title: CV
 | 09.2017-09.2018   | | MSc in Sound and Music Computing |
 |                   | | Queen Mary University of London, UK |
 | 09.2013-06.2017   | | BSc in Telecommunications Engineering with Management |
-|                   | | Beijing University of Posts and Telecommunications, China |
-|                   | | Queen Mary University of London, UK |
+|                   | | Beijing University of Posts and Telecommunications, China and Queen Mary University of London, UK |
 
 ---
 
@@ -47,6 +46,7 @@ title: CV
 | 2021  | | Enrichment Scheme Award |
 |       | | The Alan Turing Institute |
 | 2019-2023  | | QMUL and CSC Joint PhD Scholarship |
+|            | | Queen Mary University of London & China Scholarship Council |
 | 2017  | | International Science and Engineering Excellence Award |
 |       | | Queen Mary University of London |
 | 2016  | | International Science and Engineering Excellence Award |
