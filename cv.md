@@ -63,11 +63,11 @@ title: CV
 
 |           | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:--------- |:------------------------- |:--- |
-| 11.2023   | | International Audio Laboratories Erlangen, Germany |
+| 11.2023   | | **International Audio Laboratories Erlangen (AudioLabs)**, Germany |
 |           | | Host: [Prof. Meinard Müller](https://www.audiolabs-erlangen.de/fau/professor/mueller) |
-| 03.2023   | | Grupo de Reconocimiento de Formas e Inteligencia Artificia, University of Alicante, Spain |
-|           | | Host: [Dr. José Javier Valero Mas](https://cvnet.cpd.ua.es/curriculum-breve/es/valero-mas-jose-javier/13771) and Prof. [Jorge Calvo-Zaragoza](https://www.dlsi.ua.es/~jcalvo/) |
-| 02.2023   | | Institute for Research and Coordination in Acoustics/Music (IRCAM), France |
+| 03.2023   | | **Grupo de Reconocimiento de Formas e Inteligencia Artificia**, University of Alicante, Spain |
+|           | | Host: [Dr. José Javier Valero Mas](https://cvnet.cpd.ua.es/curriculum-breve/es/valero-mas-jose-javier/13771) and [Prof. Jorge Calvo-Zaragoza](https://www.dlsi.ua.es/~jcalvo/) |
+| 02.2023   | | **Institute for Research and Coordination in Acoustics/Music (IRCAM)**, France |
 |           | | Group visit as a PhD student in AIM CDT |
 
 ---
@@ -76,15 +76,15 @@ title: CV
 
 |           | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:--------- |:------------------------- |:--- |
-| 07.2024   | | Stimulus talk: Dual-domain beat tracking |
-|           | | Panel talk: Cultural differences in education systems |
-|           | | Panel talk: Cultivating expertise: Sustainable approaches to learning and research in MIR |
+| 07.2024   | | **Stimulus talk: Dual-domain beat tracking** |
+|           | | **Panel talk: Cultural differences in education systems** |
+|           | | **Panel talk: Cultivating expertise: Sustainable approaches to learning and research in MIR** |
 |           | | Dagstuhl seminar: Learning with Music Signals: Technology Meets Education, Germany |
-| 05.2023   | | Sequence modelling for audio-to-score music transcription |
+| 05.2023   | | **Sequence modelling for audio-to-score music transcription** |
 |           | | Sequences in London Workshop, UK |
-| 03.2023   | | From audio to music notation: Transcribing music recordings into readable scores |
+| 03.2023   | | **From audio to music notation: Transcribing music recordings into readable scores** |
 |           | | Research visit at University of Alicante, Spain |
-| 12.2023   | | Panel talk: Special session of PhD in MIR: Challenges and opportunities |
+| 12.2023   | | **Panel talk: Special session of PhD in MIR: Challenges and opportunities** |
 |           | | ISMIR conference, online |
 
 ---
@@ -93,11 +93,11 @@ title: CV
 
 |       | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:----- |:------------------------- |:--- |
-| 2024  | | Online volunteer, ISMIR conference, online |
-| 2021  | | Lab showcase chair, ISMIR conference, online |
-| 2020  | | Workshop organiser, DMRN workshop, UK |
-| 2020-2023 | | Student representative, AIM CDT, QMUL, UK |
-| 2019-2023 | | Seminar organiser, C4DM seminars, QMUL, UK |
+| 2024  | | **Online volunteer**, ISMIR conference, online |
+| 2021  | | **Lab showcase chair**, ISMIR conference, online |
+| 2020  | | **Workshop organiser**, DMRN workshop, UK |
+| 2020-2023 | | **Student representative**, AIM CDT, QMUL, UK |
+| 2019-2023 | | **Seminar organiser**, C4DM seminars, QMUL, UK |
 
 ---
 
