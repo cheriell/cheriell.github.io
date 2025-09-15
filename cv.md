@@ -26,7 +26,7 @@ title: CV
 |:----------------- |:------------------------- |:----- |
 | 09.2019-Present   | | **PhD in Artificial Intelligence and Music** |
 |                   | | Queen Mary University of London, UK |
-| 01.2022-12.2022   | | **Enrichment scheme PhD student** |
+| 01.2022-12.2022   | | **Enrichment Scheme PhD Student** |
 |                   | | The Alan Turing Institutem, UK |
 | 09.2017-09.2018   | | **MSc in Sound and Music Computing** |
 |                   | | Queen Mary University of London, UK |
@@ -40,9 +40,9 @@ title: CV
 
 |       | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:----- |:------------------------- |:--- |
-| 2023  | | **International research visitor fund** |
+| 2023  | | **International Research Visitor Fund** |
 |       | | University of Alicante |
-| 2022  | | **Best paper award** |
+| 2022  | | **Best Paper Award** |
 |       | | International Society for Music Information Retrieval Conference |
 | 2021  | | **Enrichment Scheme Award** |
 |       | | The Alan Turing Institute |
@@ -52,7 +52,7 @@ title: CV
 |       | | Queen Mary University of London |
 | 2016  | | **International Science and Engineering Excellence Award** |
 |       | | Queen Mary University of London |
-| 2015  | | **The first class scholarship** |
+| 2015  | | **The First Class Scholarship** |
 |       | | Beijing University of Posts and Telecommunications |
 | 2014  | | **National Scholarship** |
 |       | | Ministry of Education of the People's Republic of China |
@@ -109,7 +109,7 @@ Conferences/Workshops
 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 - IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)
 - International Joint Conference on Neural Networks (IJCNN)
-- Workshop on Large Language Models for Music \& Audio (LLM4MA) @ ISMIR Satellite Workshops
+- Workshop on Large Language Models for Music & Audio (LLM4MA) @ ISMIR Satellite Workshops
 
 Journals
 

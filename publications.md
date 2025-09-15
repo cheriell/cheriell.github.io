@@ -13,7 +13,7 @@ title: Publications
 
 ---
 
-## Journal papers
+## Journal articles
 
 - Ching-Yu Chiu, **Lele Liu**, Christof Weiß and Meinard Müller, "[Cross-modal approaches to beat tracking: A case study on Chopin Mazurkas](https://transactions.ismir.net/articles/10.5334/tismir.238)," Transactions of the International Society for Music Information Retrieval (TISMIR), 8(1):55–69, 2025.
 
@@ -21,7 +21,7 @@ title: Publications
 
 ---
 
-## Conference/workshop papers
+## Conference & workshop papers
 
 - **Lele Liu** and Christof Weiß, "[Unsupervised domain adaptation for music transcription: Exploiting cross-version consistency](https://ieeexplore.ieee.org/document/10889474)," in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.
 
