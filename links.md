@@ -15,7 +15,7 @@ title: Links
 
 ---
 
-## Current affiliations
+## Life stages
 
 **Research assistant** at [University of Würzburg](https://www.uni-wuerzburg.de/), Würzburg, Germany
 - _Supervisors_: [Prof. Dr. Christof Weiß](https://www.caidas.uni-wuerzburg.de/ch/team/christof-weiss/) and [Prof. Dr. Goran Glavaš](https://sites.google.com/view/goranglavas)
@@ -24,16 +24,12 @@ title: Links
 - [Natural Language Processing (WüNLP)](https://www.caidas.uni-wuerzburg.de/nlp/)
 - [Centre for Philology and Digitality (ZPD)](https://www.uni-wuerzburg.de/zpd/)
 
-**PhD candidate** at [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/), London, UK
+**PhD student** at [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/), London, UK
 - _Supervisors_: [Dr. Emmanouil Benetos](https://www.eecs.qmul.ac.uk/~emmanouilb/), [Dr. Veronica Morfi](https://scholar.google.co.uk/citations?user=8izRvu4AAAAJ&hl=en) and [Prof. Simon Dixon](https://www.eecs.qmul.ac.uk/~simond/)
 - [Centre for Digital Music (C4DM)](http://c4dm.eecs.qmul.ac.uk/)
 - [UKRI Centre for Doctoral Training in AI and Music (AIM CDT)](https://www.aim.qmul.ac.uk/)
 - [Machine Listening Lab](https://machine-listening.eecs.qmul.ac.uk/)
 - [Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/)
-
----
-
-## Past affiliations
 
 **Enrichment scheme PhD student** at [The Alan Turing Institute](https://www.turing.ac.uk/), London, UK
 
@@ -41,6 +37,6 @@ title: Links
 - _Mentor_: [Dr. Qiuqiang Kong](https://qiuqiangkong.github.io/)
 - SAMI (Speech, Audio & Music Intelligence) team, AI Research Lab
 
-**MSc** at [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/), London, UK
+**Master student** at [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/), London, UK
 
-**BSc** at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), Beijing, China
+**Bachelor student** at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), Beijing, China
