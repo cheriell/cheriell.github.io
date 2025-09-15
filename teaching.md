@@ -9,27 +9,27 @@ title: Teaching
 
 ## Teaching
 
-|           |                           |  |
+|               | &nbsp;&nbsp;&nbsp;&nbsp;  |  |
 |:------------- |:------------------------- |:----- |
-| Summer 2025   | &nbsp;&nbsp;&nbsp;&nbsp;  | Lecture: Music Information Retrieval (MSc & MA), JMU Würzburg (co-lecturer) |
-| Winter 2024   | &nbsp;&nbsp;&nbsp;&nbsp;  | Seminar: Music Processing (MSc & MA), JMU Würzburg (co-lecturer) |
-| Summer 2024   | &nbsp;&nbsp;&nbsp;&nbsp;  | Lecture: Music Information Retrieval (MSc & MA), JMU Würzburg (co-lecturer) |
-| Winter 2023   | &nbsp;&nbsp;&nbsp;&nbsp;  | Seminar: Music Processing (MSc & MA), JMU Würzburg (co-lecturer) |
-|               | &nbsp;&nbsp;&nbsp;&nbsp;  | Seminar: Music Transcription (MSc & MA), JMU Würzburg (co-lecturer) |
-| Spring 2023   | &nbsp;&nbsp;&nbsp;&nbsp;  | Music Informatics (MSc), Queen Mary University of London (teaching assistant) |
-| Fall 2022     | &nbsp;&nbsp;&nbsp;&nbsp;  | Professional and Research Practice (MSc), Queen Mary University of London (teaching assistant) |
-| Spring 2022   | &nbsp;&nbsp;&nbsp;&nbsp;  | Music Informatics (MSc), Queen Mary University of London (teaching assistant) |
-| Spring 2021   | &nbsp;&nbsp;&nbsp;&nbsp;  | Music Informatics (MSc), Queen Mary University of London (teaching assistant) |
-| Fall 2019     | &nbsp;&nbsp;&nbsp;&nbsp;  | Machine Learning (MSc), Queen Mary University of London (teaching assistant) |
+| Summer 2025   | | Lecture: Music Information Retrieval (MSc & MA), JMU Würzburg (co-lecturer) |
+| Winter 2024   | | Seminar: Music Processing (MSc & MA), JMU Würzburg (co-lecturer) |
+| Summer 2024   | | Lecture: Music Information Retrieval (MSc & MA), JMU Würzburg (co-lecturer) |
+| Winter 2023   | | Seminar: Music Processing (MSc & MA), JMU Würzburg (co-lecturer) |
+|               | | Seminar: Music Transcription (MSc & MA), JMU Würzburg (co-lecturer) |
+| Spring 2023   | | Music Informatics (MSc), Queen Mary University of London (teaching assistant) |
+| Fall 2022     | | Professional and Research Practice (MSc), Queen Mary University of London (teaching assistant) |
+| Spring 2022   | | Music Informatics (MSc), Queen Mary University of London (teaching assistant) |
+| Spring 2021   | | Music Informatics (MSc), Queen Mary University of London (teaching assistant) |
+| Fall 2019     | | Machine Learning (MSc), Queen Mary University of London (teaching assistant) |
 
 ---
 
 ## Supervision
 
-|                   |                           |       |
+|                   | &nbsp;&nbsp;&nbsp;&nbsp;  |       |
 |:----------------- |:------------------------- |:----- |
-| 2024-Present   | &nbsp;&nbsp;&nbsp;&nbsp;  | Michael May, Master thesis, *"Synthetic-to-real domain transfer for automatic music transcription in orchestral music"*, JMU Würzburg (advisor) |
-| 2024-2025      | &nbsp;&nbsp;&nbsp;&nbsp;  | Moritz Hering, Master thesis, *"Towards lightweight and causal neural networks for instrument-agnostic music transcription"*, JMU Würzburg (advisor) |
-| 2024              | &nbsp;&nbsp;&nbsp;&nbsp;  | Marc-Philipp Knechtle, Master internship, *"On the application of onsets and frames to classical music audio recordings"*, JMU Würzburg (advisor) |
-| 2023-2024      | &nbsp;&nbsp;&nbsp;&nbsp;  | Stefan Mühl, Bachelor thesis, *"An analysis of audiovisual features in movies across time and genre"*, JMU Würzburg (advisor) |
+| 2024-Present   | | Michael May, Master thesis, *"Synthetic-to-real domain transfer for automatic music transcription in orchestral music"*, JMU Würzburg (advisor) |
+| 2024-2025      | | Moritz Hering, Master thesis, *"Towards lightweight and causal neural networks for instrument-agnostic music transcription"*, JMU Würzburg (advisor) |
+| 2024           | | Marc-Philipp Knechtle, Master internship, *"On the application of onsets and frames to classical music audio recordings"*, JMU Würzburg (advisor) |
+| 2023-2024      | | Stefan Mühl, Bachelor thesis, *"An analysis of audiovisual features in movies across time and genre"*, JMU Würzburg (advisor) |
 

@@ -9,28 +9,28 @@ title: CV
 
 ## Employment
 
-|                       |                           |       |
-|:--------------------- |:------------------------- |:----- |
-| 10.2023-Present    | &nbsp;&nbsp;&nbsp;&nbsp;  | Research assistant |
+|                       | &nbsp;&nbsp;&nbsp;&nbsp; |       |
+|:--------------------- |:------------------------ |:----- |
+| 10.2023-Present       | | Research assistant |
 |                       | | University of Würzburg, Germany |
-| 10.2021-12.2021    | &nbsp;&nbsp;&nbsp;&nbsp;  | Research internship |
+| 10.2021-12.2021       | | Research internship |
 |                       | | ByteDance, UK |
-| 10.2018-06.2019    | &nbsp;&nbsp;&nbsp;&nbsp;  | Web engineer |
+| 10.2018-06.2019       | | Web engineer |
 |                       | | Winery Group, China |
 
 ---
 
 ## Education
 
-|                   |                           |       |
+|                   | &nbsp;&nbsp;&nbsp;&nbsp;  |       |
 |:----------------- |:------------------------- |:----- |
-| 09.2019-Present| &nbsp;&nbsp;&nbsp;&nbsp;  | PhD in Artificial Intelligence and Music |
+| 09.2019-Present   | | PhD in Artificial Intelligence and Music |
 |                   | | Queen Mary University of London, UK |
-| 01.2022-12.2022| &nbsp;&nbsp;&nbsp;&nbsp;  | Enrichment PhD student |
+| 01.2022-12.2022   | | Enrichment PhD student |
 |                   | | The Alan Turing Institutem, UK |
-| 09.2017-09.2018| &nbsp;&nbsp;&nbsp;&nbsp;  | MSc in Sound and Music Computing |
+| 09.2017-09.2018   | | MSc in Sound and Music Computing |
 |                   | | Queen Mary University of London, UK |
-| 09.2013-06.2017| &nbsp;&nbsp;&nbsp;&nbsp;  | BSc in Telecommunications Engineering with Management |
+| 09.2013-06.2017   | | BSc in Telecommunications Engineering with Management |
 |                   | | Beijing University of Posts and Telecommunications, China |
 |                   | | Queen Mary University of London, UK |
 
@@ -38,65 +38,65 @@ title: CV
 
 ## Awards, scholarships and fundings
 
-|       |                           |     |
+|       | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:----- |:------------------------- |:--- |
-| 2023  | &nbsp;&nbsp;&nbsp;&nbsp;  | International research visitor fund |
+| 2023  | | International research visitor fund |
 |       | | University of Alicante |
-| 2022  | &nbsp;&nbsp;&nbsp;&nbsp;  | Best paper award |
+| 2022  | | Best paper award |
 |       | | International Society for Music Information Retrieval Conference |
-| 2021  | &nbsp;&nbsp;&nbsp;&nbsp;  | Enrichment Scheme Award |
+| 2021  | | Enrichment Scheme Award |
 |       | | The Alan Turing Institute |
-| 2019-2023  | &nbsp;&nbsp;&nbsp;&nbsp;  | QMUL and CSC Joint PhD Scholarship |
-| 2017  | &nbsp;&nbsp;&nbsp;&nbsp;  | International Science and Engineering Excellence Award |
+| 2019-2023  | | QMUL and CSC Joint PhD Scholarship |
+| 2017  | | International Science and Engineering Excellence Award |
 |       | | Queen Mary University of London |
-| 2016  | &nbsp;&nbsp;&nbsp;&nbsp;  | International Science and Engineering Excellence Award |
+| 2016  | | International Science and Engineering Excellence Award |
 |       | | Queen Mary University of London |
-| 2015  | &nbsp;&nbsp;&nbsp;&nbsp;  | The first class scholarship |
+| 2015  | | The first class scholarship |
 |       | | Beijing University of Posts and Telecommunications |
-| 2014  | &nbsp;&nbsp;&nbsp;&nbsp;  | National Scholarship |
+| 2014  | | National Scholarship |
 |       | | Ministry of Education of the People's Republic of China |
 
 ---
 
 ## Research visits
 
-|           |                           |     |
+|           | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:--------- |:------------------------- |:--- |
-| 11.2023   | &nbsp;&nbsp;&nbsp;&nbsp;  | International Audio Laboratories Erlangen, Germany |
+| 11.2023   | | International Audio Laboratories Erlangen, Germany |
 |           | | Host: Prof. Meinard Müller |
-| 03.2023   | &nbsp;&nbsp;&nbsp;&nbsp;  | Grupo de Reconocimiento de Formas e Inteligencia Artificia, University of Alicante, Spain |
+| 03.2023   | | Grupo de Reconocimiento de Formas e Inteligencia Artificia, University of Alicante, Spain |
 |           | | Host: Dr. José Javier Valero Mas and Prof. Jorge Calvo-Zaragoza |
-| 02.2023   | &nbsp;&nbsp;&nbsp;&nbsp;  | Institute for Research and Coordination in Acoustics/Music (IRCAM), France |
+| 02.2023   | | Institute for Research and Coordination in Acoustics/Music (IRCAM), France |
 |           | | Group visit as a PhD student in AIM CDT |
 
 ---
 
 ## Invited talks
 
-|           |                           |     |
+|           | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:--------- |:------------------------- |:--- |
-| 07.2024   | &nbsp;&nbsp;&nbsp;&nbsp;  | Stimulus talk: Dual-domain beat tracking |
-|           | &nbsp;&nbsp;&nbsp;&nbsp;  | Panel talk: Cultural differences in education systems |
-|           | &nbsp;&nbsp;&nbsp;&nbsp;  | Panel talk: Cultivating expertise: Sustainable approaches to learning and research in MIR |
+| 07.2024   | | Stimulus talk: Dual-domain beat tracking |
+|           | | Panel talk: Cultural differences in education systems |
+|           | | Panel talk: Cultivating expertise: Sustainable approaches to learning and research in MIR |
 |           | | Dagstuhl seminar: Learning with Music Signals: Technology Meets Education, Germany |
-| 05.2023   | &nbsp;&nbsp;&nbsp;&nbsp;  | Sequence modelling for audio-to-score music transcription |
+| 05.2023   | | Sequence modelling for audio-to-score music transcription |
 |           | | Sequences in London Workshop, UK |
-| 03.2023   | &nbsp;&nbsp;&nbsp;&nbsp;  | From audio to music notation: Transcribing music recordings into readable scores |
+| 03.2023   | | From audio to music notation: Transcribing music recordings into readable scores |
 |           | | Research visit at University of Alicante, Spain |
-| 12.2023   | &nbsp;&nbsp;&nbsp;&nbsp;  | Panel talk: Special session of PhD in MIR: Challenges and opportunities |
+| 12.2023   | | Panel talk: Special session of PhD in MIR: Challenges and opportunities |
 |           | | ISMIR conference, online |
 
 ---
 
 ## Services
 
-|       |                           |     |
+|       | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:----- |:------------------------- |:--- |
-| 2024  | &nbsp;&nbsp;&nbsp;&nbsp;  | Online volunteer, ISMIR conference, online |
-| 2021  | &nbsp;&nbsp;&nbsp;&nbsp;  | Lab showcase chair, ISMIR conference, online |
-| 2020  | &nbsp;&nbsp;&nbsp;&nbsp;  | Workshop organiser, DMRN workshop, UK |
-| 2020-2023 | &nbsp;&nbsp;&nbsp;&nbsp;  | Student representative, AIM CDT, QMUL, UK |
-| 2019-2023 | &nbsp;&nbsp;&nbsp;&nbsp;  | Seminar organiser, C4DM seminars, QMUL, UK |
+| 2024  | | Online volunteer, ISMIR conference, online |
+| 2021  | | Lab showcase chair, ISMIR conference, online |
+| 2020  | | Workshop organiser, DMRN workshop, UK |
+| 2020-2023 | | Student representative, AIM CDT, QMUL, UK |
+| 2019-2023 | | Seminar organiser, C4DM seminars, QMUL, UK |
 
 ---
 
