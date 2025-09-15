@@ -9,7 +9,7 @@ title: Teaching
 
 ## Teaching
 
-| Term          |                           | Course |
+|           |                           |  |
 |:------------- |:------------------------- |:----- |
 | Summer 2025   | &nbsp;&nbsp;&nbsp;&nbsp;  | Lecture: Music Information Retrieval (MSc & MA), JMU Würzburg (co-lecturer) |
 | Winter 2024   | &nbsp;&nbsp;&nbsp;&nbsp;  | Seminar: Music Processing (MSc & MA), JMU Würzburg (co-lecturer) |
