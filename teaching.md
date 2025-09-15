@@ -35,12 +35,12 @@ title: Teaching
 
 |                   |                           |       |
 |:----------------- |:------------------------- |:----- |
-| 2024 -- Present   | &nbsp;&nbsp;&nbsp;&nbsp;  | Michael May, Master thesis, JMU Würzburg |
+| 2024-Present   | &nbsp;&nbsp;&nbsp;&nbsp;  | Michael May, Master thesis, JMU Würzburg |
 |                   | &nbsp;&nbsp;&nbsp;&nbsp;  | Synthetic-to-real domain transfer for automatic music transcription in orchestral music |
-| 2024 -- 2025      | &nbsp;&nbsp;&nbsp;&nbsp;  | Moritz Hering, Master thesis, JMU Würzburg |
+| 2024-2025      | &nbsp;&nbsp;&nbsp;&nbsp;  | Moritz Hering, Master thesis, JMU Würzburg |
 |                   | &nbsp;&nbsp;&nbsp;&nbsp;  | Towards lightweight and causal neural networks for instrument-agnostic music transcription |
 | 2024              | &nbsp;&nbsp;&nbsp;&nbsp;  | Marc-Philipp Knechtle, Master internship, JMU Würzburg |
 |                   | &nbsp;&nbsp;&nbsp;&nbsp;  | On the application of onsets and frames to classical music audio recordings |
-| 2023 -- 2024      | &nbsp;&nbsp;&nbsp;&nbsp;  | Stefan Mühl, Bachelor thesis, JMU Würzburg |
+| 2023-2024      | &nbsp;&nbsp;&nbsp;&nbsp;  | Stefan Mühl, Bachelor thesis, JMU Würzburg |
 |                   | &nbsp;&nbsp;&nbsp;&nbsp;  | An analysis of audiovisual features in movies across time and genre |
 
