@@ -11,11 +11,11 @@ title: CV
 
 |                       | &nbsp;&nbsp;&nbsp;&nbsp; |       |
 |:--------------------- |:------------------------ |:----- |
-| 10.2023-Present       | | Research assistant |
+| 10.2023-Present       | | **Research assistant** |
 |                       | | University of Würzburg, Germany |
-| 10.2021-12.2021       | | Research internship |
+| 10.2021-12.2021       | | **Research internship** |
 |                       | | ByteDance, UK |
-| 10.2018-06.2019       | | Web engineer |
+| 10.2018-06.2019       | | **Web engineer** |
 |                       | | Winery Group, China |
 
 ---
@@ -24,13 +24,13 @@ title: CV
 
 |                   | &nbsp;&nbsp;&nbsp;&nbsp;  |       |
 |:----------------- |:------------------------- |:----- |
-| 09.2019-Present   | | PhD in Artificial Intelligence and Music |
+| 09.2019-Present   | | **PhD in Artificial Intelligence and Music** |
 |                   | | Queen Mary University of London, UK |
-| 01.2022-12.2022   | | Enrichment PhD student |
+| 01.2022-12.2022   | | **Enrichment PhD student** |
 |                   | | The Alan Turing Institutem, UK |
-| 09.2017-09.2018   | | MSc in Sound and Music Computing |
+| 09.2017-09.2018   | | **MSc in Sound and Music Computing** |
 |                   | | Queen Mary University of London, UK |
-| 09.2013-06.2017   | | BSc in Telecommunications Engineering with Management |
+| 09.2013-06.2017   | | **BSc in Telecommunications Engineering with Management** |
 |                   | | Beijing University of Posts and Telecommunications, China & |
 |                   | | Queen Mary University of London, UK |
 
@@ -40,21 +40,21 @@ title: CV
 
 |       | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:----- |:------------------------- |:--- |
-| 2023  | | International research visitor fund |
+| 2023  | | **International research visitor fund** |
 |       | | University of Alicante |
-| 2022  | | Best paper award |
+| 2022  | | **Best paper award** |
 |       | | International Society for Music Information Retrieval Conference |
-| 2021  | | Enrichment Scheme Award |
+| 2021  | | **Enrichment Scheme Award** |
 |       | | The Alan Turing Institute |
-| 2019-2023  | | QMUL and CSC Joint PhD Scholarship |
+| 2019-2023  | | **QMUL and CSC Joint PhD Scholarship** |
 |            | | Queen Mary University of London & China Scholarship Council |
-| 2017  | | International Science and Engineering Excellence Award |
+| 2017  | | **International Science and Engineering Excellence Award** |
 |       | | Queen Mary University of London |
-| 2016  | | International Science and Engineering Excellence Award |
+| 2016  | | **International Science and Engineering Excellence Award** |
 |       | | Queen Mary University of London |
-| 2015  | | The first class scholarship |
+| 2015  | | **The first class scholarship** |
 |       | | Beijing University of Posts and Telecommunications |
-| 2014  | | National Scholarship |
+| 2014  | | **National Scholarship** |
 |       | | Ministry of Education of the People's Republic of China |
 
 ---
@@ -64,9 +64,9 @@ title: CV
 |           | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:--------- |:------------------------- |:--- |
 | 11.2023   | | International Audio Laboratories Erlangen, Germany |
-|           | | Host: Prof. Meinard Müller |
+|           | | Host: [Prof. Meinard Müller](https://www.audiolabs-erlangen.de/fau/professor/mueller) |
 | 03.2023   | | Grupo de Reconocimiento de Formas e Inteligencia Artificia, University of Alicante, Spain |
-|           | | Host: Dr. José Javier Valero Mas and Prof. Jorge Calvo-Zaragoza |
+|           | | Host: [Dr. José Javier Valero Mas](https://cvnet.cpd.ua.es/curriculum-breve/es/valero-mas-jose-javier/13771) and Prof. [Jorge Calvo-Zaragoza](https://www.dlsi.ua.es/~jcalvo/) |
 | 02.2023   | | Institute for Research and Coordination in Acoustics/Music (IRCAM), France |
 |           | | Group visit as a PhD student in AIM CDT |
 
