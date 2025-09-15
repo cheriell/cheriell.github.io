@@ -38,5 +38,8 @@ title: Links
 - SAMI (Speech, Audio & Music Intelligence) team, AI Research Lab
 
 **Master student** at [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/), London, UK
+- [School of Electronic Engineering and Computer Science](https://www.qmul.ac.uk/eecs/)
 
-**Bachelor student** at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), Beijing, China
+**Bachelor student** at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), Beijing, China and [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/), London, UK
+- [International School](https://is.bupt.edu.cn/)
+- [School of Electronic Engineering and Computer Science](https://www.qmul.ac.uk/eecs/)
