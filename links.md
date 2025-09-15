@@ -38,8 +38,10 @@ title: Links
 - SAMI (Speech, Audio & Music Intelligence) team, AI Research Lab
 
 **Master student** at [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/), London, UK
+- _Final project supervisor_: [Dr. Emmanouil Benetos](https://www.eecs.qmul.ac.uk/~emmanouilb/)
 - [School of Electronic Engineering and Computer Science](https://www.qmul.ac.uk/eecs/)
 
 **Bachelor student** at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), Beijing, China and [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/), London, UK
+- _Final project supervisor_: [Dr Mathieu Barthet](https://www.qmul.ac.uk/eecs/people/profiles/barthetmathieu.html)
 - [International School](https://is.bupt.edu.cn/)
 - [School of Electronic Engineering and Computer Science](https://www.qmul.ac.uk/eecs/)
