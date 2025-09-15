@@ -7,9 +7,11 @@ title: Home
 
 ---
 
-[ <i class="fa fa-github-square" aria-hidden="true"></i> [Github](https://github.com/cheriell) ]
-[ <i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn](https://www.linkedin.com/in/lele-liu-748a3a124/) ]
-[ <img src="./assets/image/icons8-google-scholar-50.png" style="width:1em"> [Google Scholar](https://scholar.google.com/citations?user=ZwFmzd8AAAAJ&hl=en) ]
+<i class="fa fa-github-square" aria-hidden="true"></i> [Github](https://github.com/cheriell)
+**|**
+<i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn](https://www.linkedin.com/in/lele-liu-748a3a124/)
+**|**
+<img src="./assets/image/icons8-google-scholar-50.png" style="width:1em"> [Google Scholar](https://scholar.google.com/citations?user=ZwFmzd8AAAAJ&hl=en)
 
 ---
 
