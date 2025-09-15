@@ -58,6 +58,36 @@ title: CV
 
 ---
 
+## Research visits
+
+|           |                           |     |
+|:--------- |:------------------------- |:--- |
+| 11.2023   | &nbsp;&nbsp;&nbsp;&nbsp;  | International Audio Laboratories Erlangen, Germany |
+|           | | Host: Prof. Meinard Müller |
+| 03.2023   | &nbsp;&nbsp;&nbsp;&nbsp;  | Grupo de Reconocimiento de Formas e Inteligencia Artificia, University of Alicante, Spain |
+|           | | Host: Dr. José Javier Valero Mas and Prof. Jorge Calvo-Zaragoza |
+| 02.2023   | &nbsp;&nbsp;&nbsp;&nbsp;  | Institute for Research and Coordination in Acoustics/Music (IRCAM), France |
+|           | | Group visit as a PhD student in AIM CDT |
+
+---
+
+## Invited talks
+
+|           |                           |     |
+|:--------- |:------------------------- |:--- |
+| 07.2024   | &nbsp;&nbsp;&nbsp;&nbsp;  | Stimulus talk: Dual-domain beat tracking |
+|           | &nbsp;&nbsp;&nbsp;&nbsp;  | Panel talk: Cultural differences in education systems |
+|           | &nbsp;&nbsp;&nbsp;&nbsp;  | Panel talk: Cultivating expertise: Sustainable approaches to learning and research in MIR |
+|           | | Dagstuhl seminar: Learning with Music Signals: Technology Meets Education, Germany |
+| 05.2023   | &nbsp;&nbsp;&nbsp;&nbsp;  | Sequence modelling for audio-to-score music transcription |
+|           | | Sequences in London Workshop, UK |
+| 03.2023   | &nbsp;&nbsp;&nbsp;&nbsp;  | From audio to music notation: Transcribing music recordings into readable scores |
+|           | | Research visit at University of Alicante, Spain |
+| 12.2023   | &nbsp;&nbsp;&nbsp;&nbsp;  | Panel talk: Special session of PhD in MIR: Challenges and opportunities |
+|           | | ISMIR conference, online |
+
+---
+
 ## Services
 
 |       |                           |     |
@@ -85,20 +115,3 @@ Journals
 - Transactions of the International Society for Music Information Retrieval (TISMIR)
 - PeerJ Computer Science
 - Computer Music Journal
-
----
-
-## Invited talks
-
-|           |                           |     |
-|:--------- |:------------------------- |:--- |
-| Jul 2024 | &nbsp;&nbsp;&nbsp;&nbsp;  | Stimulus talk: Dual-domain beat tracking |
-|           | &nbsp;&nbsp;&nbsp;&nbsp;  | Panel talk: Cultural differences in education systems |
-|           | &nbsp;&nbsp;&nbsp;&nbsp;  | Panel talk: Cultivating expertise: Sustainable approaches to learning and research in MIR |
-|           | | Dagstuhl seminar: Learning with Music Signals: Technology Meets Education, Germany |
-| May 2023  | &nbsp;&nbsp;&nbsp;&nbsp;  | Sequence modelling for audio-to-score music transcription |
-|           | | Sequences in London Workshop, UK |
-| Mar 2023 | &nbsp;&nbsp;&nbsp;&nbsp;  | From audio to music notation: Transcribing music recordings into readable scores |
-|           | | Research visit at University of Alicante, Spain |
-| Dec 2023 | &nbsp;&nbsp;&nbsp;&nbsp;  | Panel talk: Special session of PhD in MIR: Challenges and opportunities |
-|           | | ISMIR conference, online |
