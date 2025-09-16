@@ -77,6 +77,7 @@ title: CV
 |           | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:--------- |:------------------------- |:--- |
 | 07.2024   | | **Stimulus talk: Dual-domain beat tracking** |
+|           | | **Stimulus talk: Learning from multiple versions of music** |
 |           | | **Panel talk: Cultural differences in education systems** |
 |           | | **Panel talk: Cultivating expertise: Sustainable approaches to learning and research in MIR** |
 |           | | Dagstuhl seminar: Learning with Music Signals: Technology Meets Education, Germany |
