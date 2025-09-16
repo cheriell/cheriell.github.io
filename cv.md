@@ -76,16 +76,16 @@ title: CV
 
 |           | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:--------- |:------------------------- |:--- |
-| 07.2024   | | **Stimulus talk: Dual-domain beat tracking** |
-|           | | **Stimulus talk: Learning from multiple versions of music** |
-|           | | **Panel talk: Cultural differences in education systems** |
-|           | | **Panel talk: Cultivating expertise: Sustainable approaches to learning and research in MIR** |
+| 07.2024   | | **Stimulus talk -- Dual-domain beat tracking** |
+|           | | **Stimulus talk -- Learning from multiple versions of music** |
+|           | | **Panel talk -- Cultural differences in education systems** |
+|           | | **Panel talk -- Cultivating expertise: Sustainable approaches to learning and research in MIR** |
 |           | | Dagstuhl seminar: Learning with Music Signals: Technology Meets Education, Germany |
 | 05.2023   | | **Sequence modelling for audio-to-score music transcription** |
 |           | | Sequences in London Workshop, UK |
 | 03.2023   | | **From audio to music notation: Transcribing music recordings into readable scores** |
 |           | | Research visit at University of Alicante, Spain |
-| 12.2023   | | **Panel talk: Special session of PhD in MIR: Challenges and opportunities** |
+| 12.2023   | | **Panel talk -- Special session of PhD in MIR: Challenges and opportunities** |
 |           | | ISMIR conference, online |
 
 ---
