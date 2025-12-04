@@ -42,8 +42,7 @@ Emil-Hilb-Weg 23
 97074 Würzburg  
 Germany
 
-Building: ZPD  
-Room: 02.007
+Room, Building: 02.007, ZPD (alternatively at 02.003, CAIDAS)  
 
 E-Mail (Würzburg): lele.liu [at] uni-wuerzburg.de  
 E-Mail (Queen Mary): lele.liu [at] qmul.ac.uk
