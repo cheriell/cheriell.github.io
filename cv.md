@@ -11,11 +11,11 @@ title: CV
 
 |                       | &nbsp;&nbsp;&nbsp;&nbsp; |       |
 |:--------------------- |:------------------------ |:----- |
-| 10.2023-Present       | | **Research assistant** |
+| 10.2023-Present       | | **Research Assistant / PostDoc** |
 |                       | | University of Würzburg, Germany |
-| 10.2021-12.2021       | | **Research internship** |
+| 10.2021-12.2021       | | **Research Internship** |
 |                       | | ByteDance, UK |
-| 10.2018-06.2019       | | **Web engineer** |
+| 10.2018-06.2019       | | **Web Engineer** |
 |                       | | Winery Group, China |
 
 ---
@@ -24,7 +24,7 @@ title: CV
 
 |                   | &nbsp;&nbsp;&nbsp;&nbsp;  |       |
 |:----------------- |:------------------------- |:----- |
-| 09.2019-Present   | | **PhD in Artificial Intelligence and Music** |
+| 09.2019-11.2025   | | **PhD in Artificial Intelligence and Music** |
 |                   | | Queen Mary University of London, UK |
 | 01.2022-12.2022   | | **Enrichment Scheme PhD Student** |
 |                   | | The Alan Turing Institutem, UK |
@@ -36,7 +36,7 @@ title: CV
 
 ---
 
-## Awards, scholarships and fundings
+## Awards, Scholarships & Fundings
 
 |       | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:----- |:------------------------- |:--- |
@@ -59,7 +59,7 @@ title: CV
 
 ---
 
-## Research visits
+## Research Visits
 
 |           | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:--------- |:------------------------- |:--- |
@@ -72,7 +72,7 @@ title: CV
 
 ---
 
-## Invited talks
+## Invited Talks
 
 |           | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:--------- |:------------------------- |:--- |
@@ -80,29 +80,30 @@ title: CV
 |           | | **Stimulus talk -- Learning from multiple versions of music** |
 |           | | **Panel talk -- Cultural differences in education systems** |
 |           | | **Panel talk -- Cultivating expertise: Sustainable approaches to learning and research in MIR** |
-|           | | Dagstuhl seminar: Learning with Music Signals: Technology Meets Education, Germany |
+|           | | [Dagstuhl seminar: Learning with Music Signals: Technology Meets Education](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24302), Germany |
 | 05.2023   | | **Sequence modelling for audio-to-score music transcription** |
-|           | | Sequences in London Workshop, UK |
+|           | | [Sequences in London Workshop](https://sites.google.com/view/sequencesworkshop/home), UK |
 | 03.2023   | | **From audio to music notation: Transcribing music recordings into readable scores** |
 |           | | Research visit at University of Alicante, Spain |
 | 12.2023   | | **Panel talk -- Special session of PhD in MIR: Challenges and opportunities** |
-|           | | ISMIR conference, online |
+|           | | [ISMIR 2023 conference](https://ismir2023.ismir.net/), online |
 
 ---
 
 ## Services
 
-|       | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
-|:----- |:------------------------- |:--- |
-| 2024  | | **Online volunteer**, ISMIR conference, online |
-| 2021  | | **Lab showcase chair**, ISMIR conference, online |
-| 2020  | | **Workshop organiser**, DMRN workshop, UK |
-| 2020-2023 | | **Student representative**, AIM CDT, QMUL, UK |
-| 2019-2023 | | **Seminar organiser**, C4DM seminars, QMUL, UK |
+|               | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
+|:------------- |:------------------------- |:--- |
+| 2025-Present  | | **WIMIR Mentoring Program Organiser**, [WIMIR](https://ismir.net/wimir/), online |
+| 2024          | | **Online volunteer**, [ISMIR 2024 conference](https://ismir2024.ismir.net/), online |
+| 2021          | | **Lab showcase chair**, [ISMIR 2021 conference](https://ismir2021.ismir.net/), online |
+| 2020          | | **Workshop organiser**, [DMRN workshop](https://www.qmul.ac.uk/dmrn/dmrn15/), UK |
+| 2020-2023     | | **Student representative**, [AIM CDT](https://www.aim.qmul.ac.uk/), QMUL, UK |
+| 2019-2023     | | **Seminar organiser**, [C4DM seminars](https://www.youtube.com/playlist?list=PLpbLBawVNjQfSG1Z_C2l_SJYmlL9bfjLL), QMUL, UK |
 
 ---
 
-## Peer review
+## Peer Review
 
 Conferences/Workshops
 

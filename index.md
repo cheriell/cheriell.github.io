@@ -15,21 +15,9 @@ title: Home
 
 ---
 
-I am currently:
+I am currently a research assistant (PostDoc) at [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.caidas.uni-wuerzburg.de/), [University of Würzburg](https://www.uni-wuerzburg.de/) in Germany. I'm co-supervised by [Prof. Dr. Christof Weiß](https://www.caidas.uni-wuerzburg.de/ch/team/christof-weiss/) and [Prof. Dr. Goran Glavaš](https://sites.google.com/view/goranglavas), from the [Computational Humanities (CH)](https://www.informatik.uni-wuerzburg.de/ch/) group and [Natural Language Processing (WüNLP)](https://www.caidas.uni-wuerzburg.de/nlp/) group. My main research interest is in automatic music transcription, more broadly, in music analysis (e.g., beat tracking, music performance analysis, multimodal music analysis). I'm also curious about language and culture studies.
 
-**Research assistant** at [University of Würzburg](https://www.uni-wuerzburg.de/), Würzburg, Germany
-- _Supervisors_: [Prof. Dr. Christof Weiß](https://www.caidas.uni-wuerzburg.de/ch/team/christof-weiss/) and [Prof. Dr. Goran Glavaš](https://sites.google.com/view/goranglavas)
-- [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.caidas.uni-wuerzburg.de/)
-- [Computational Humanities (CH)](https://www.informatik.uni-wuerzburg.de/ch/)
-- [Natural Language Processing (WüNLP)](https://www.caidas.uni-wuerzburg.de/nlp/)
-- [Centre for Philology and Digitality (ZPD)](https://www.uni-wuerzburg.de/zpd/)
-
-**PhD candidate** at [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/), London, UK
-- _Supervisors_: [Dr. Emmanouil Benetos](https://www.eecs.qmul.ac.uk/~emmanouilb/), [Dr. Veronica Morfi](https://scholar.google.co.uk/citations?user=8izRvu4AAAAJ&hl=en) and [Prof. Simon Dixon](https://www.eecs.qmul.ac.uk/~simond/)
-- [Centre for Digital Music (C4DM)](http://c4dm.eecs.qmul.ac.uk/)
-- [UKRI Centre for Doctoral Training in AI and Music (AIM CDT)](https://www.aim.qmul.ac.uk/)
-- [Machine Listening Lab](https://machine-listening.eecs.qmul.ac.uk/)
-- [Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/)
+Before joining CAIDAS, I did my PhD in [UKRI Centre for Doctoral Training in AI and Music (AIM CDT)](https://www.aim.qmul.ac.uk/), at [Centre for Digital Music (C4DM)](http://c4dm.eecs.qmul.ac.uk/), [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/) in the UK. My PhD is co-supervised by [Dr. Emmanouil Benetos](https://www.eecs.qmul.ac.uk/~emmanouilb/), [Dr. Veronica Morfi](https://scholar.google.co.uk/citations?user=8izRvu4AAAAJ&hl=en) and [Prof. Simon Dixon](https://www.eecs.qmul.ac.uk/~simond/).
 
 ---
 
@@ -42,7 +30,7 @@ Emil-Hilb-Weg 23
 97074 Würzburg  
 Germany
 
-Room, Building: 02.007, ZPD (alternatively at 02.003, CAIDAS)  
+Office: 02.007, ZPD (alternatively at 02.003, CAIDAS)  
 
 E-Mail (Würzburg): lele.liu [at] uni-wuerzburg.de  
 E-Mail (Queen Mary): lele.liu [at] qmul.ac.uk

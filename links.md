@@ -7,7 +7,7 @@ title: Links
 
 ---
 
-## Institutional profiles
+## Institutional Profiles
 
 - [Profile at University of Würzburg](https://www.caidas.uni-wuerzburg.de/ch/team/lele-liu/)
 - [Profile at The Alan Turing Institute](https://www.turing.ac.uk/people/enrichment-students/lele-liu)
@@ -17,7 +17,7 @@ title: Links
 
 ## Trace
 
-**Research assistant** at [University of Würzburg](https://www.uni-wuerzburg.de/), Würzburg, Germany
+**Research assistant / PostDoc** at [University of Würzburg](https://www.uni-wuerzburg.de/), Würzburg, Germany
 - _Supervisors_: [Prof. Dr. Christof Weiß](https://www.caidas.uni-wuerzburg.de/ch/team/christof-weiss/) and [Prof. Dr. Goran Glavaš](https://sites.google.com/view/goranglavas)
 - [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.caidas.uni-wuerzburg.de/)
 - [Computational Humanities (CH)](https://www.informatik.uni-wuerzburg.de/ch/)
@@ -38,10 +38,10 @@ title: Links
 - SAMI (Speech, Audio & Music Intelligence) team, AI Research Lab
 
 **Master student** at [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/), London, UK
-- _Final project supervisor_: [Dr. Emmanouil Benetos](https://www.eecs.qmul.ac.uk/~emmanouilb/)
+- _Thesis supervisor_: [Dr. Emmanouil Benetos](https://www.eecs.qmul.ac.uk/~emmanouilb/)
 - [School of Electronic Engineering and Computer Science](https://www.qmul.ac.uk/eecs/)
 
 **Bachelor student** at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), Beijing, China and [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/), London, UK
-- _Final project supervisor_: [Dr Mathieu Barthet](https://www.qmul.ac.uk/eecs/people/profiles/barthetmathieu.html)
+- _Thesis supervisor_: [Dr Mathieu Barthet](https://www.qmul.ac.uk/eecs/people/profiles/barthetmathieu.html)
 - [International School](https://is.bupt.edu.cn/)
 - [School of Electronic Engineering and Computer Science](https://www.qmul.ac.uk/eecs/)
