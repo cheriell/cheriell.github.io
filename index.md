@@ -15,6 +15,8 @@ title: Home
 
 ---
 
+## Introduction
+
 I am currently a research assistant (PostDoc) at [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.caidas.uni-wuerzburg.de/), [University of Würzburg](https://www.uni-wuerzburg.de/) in Germany. I'm co-supervised by [Prof. Dr. Christof Weiß](https://www.caidas.uni-wuerzburg.de/ch/team/christof-weiss/) and [Prof. Dr. Goran Glavaš](https://sites.google.com/view/goranglavas), from the [Computational Humanities (CH)](https://www.informatik.uni-wuerzburg.de/ch/) group and [Natural Language Processing (WüNLP)](https://www.caidas.uni-wuerzburg.de/nlp/) group. 
 
 Before joining CAIDAS, I did my PhD in [UKRI Centre for Doctoral Training in AI and Music (AIM CDT)](https://www.aim.qmul.ac.uk/), at [Centre for Digital Music (C4DM)](http://c4dm.eecs.qmul.ac.uk/), [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/) in the UK. My PhD is co-supervised by [Dr. Emmanouil Benetos](https://www.eecs.qmul.ac.uk/~emmanouilb/), [Dr. Veronica Morfi](https://scholar.google.co.uk/citations?user=8izRvu4AAAAJ&hl=en) and [Prof. Simon Dixon](https://www.eecs.qmul.ac.uk/~simond/).

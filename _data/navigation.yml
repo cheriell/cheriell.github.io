@@ -1,10 +1,10 @@
 - name: Home
   link: /
 - name: CV
-  link: /cv
+  link: /pages/cv
 - name: Publications
-  link: /publications
+  link: /pages/publications
 - name: Teaching
-  link: /teaching
+  link: /pages/teaching
 - name: Links
-  link: /links
+  link: /pages/links

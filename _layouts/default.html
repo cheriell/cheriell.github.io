@@ -10,7 +10,15 @@
     </head>
     <body>
         {% include navigation.html %}
-        <div class="mybackground">
+        <div class="mybackground" id="page-top">
+            <aside class="subtitle-sidebar" aria-label="Page subtitles navigation">
+                <h3 class="subtitle-sidebar-title">On this page</h3>
+                <button type="button" id="subtitle-sidebar-hide" class="subtitle-sidebar-control" aria-label="Hide sidebar">Hide</button>
+                <ul id="subtitle-list" class="subtitle-list" aria-live="polite">
+                    <li class="subtitle-empty">No subsections</li>
+                </ul>
+            </aside>
+            <button type="button" id="subtitle-sidebar-show" class="subtitle-sidebar-show" aria-label="Show sidebar">On this page</button>
             <div class="page">
                 <div class="page-wrapper">
                     {{ content }}
@@ -22,5 +30,6 @@
 </html>
 
 <script src="/assets/js/ajax.js"></script>
-<script src="/assets/js/bootstrap.min.js"></script>
 <script src="/assets/js/jquery-1.11.2.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+<script src="/assets/js/navigate.js"></script>
