@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HPC in Wuerzburg
+title: AI Code of Conduct
 ---
 
 # AI Code of Conduct
