@@ -1,21 +1,28 @@
 # README_AI
 
 
-## Rules for AI Agents
+## AI Agents: Code of Conduct
 
-- Always ask before attempting to running a command
-- Never add/comment git changes, ask if you want to do so
-- Never add unecessary changes -- only add code that are necessary and relevant to the change requested. Never do code polishing/clean up unless being asked to do it.
+Please follow these rules in our collaboration.
+
+Dos and Don'ts:
+
+- Always ask before attempting to running a command.
+- Never add/commit git changes.
+- Avoid unecessary changes -- only update the code that are necessary and relevant to the changes requested.
+- Never do code polishing/clean-up unless being asked to do it.
 
 Before editing code:
+
 - Identify the relevant files.
 - Explain the change briefly.
-- Then propose edits.
+- Propose edits.
+- Ask for approval before start editing.
 
 
-## Project structure
+## Project Overview
 
-This project is my homepage build with Jekyll.
+This project is my homepage built with Jekyll.
 
 - `_data/`: data for the project
 - `_includes/`: includes for the project
