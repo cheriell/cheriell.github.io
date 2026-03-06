@@ -1,12 +1,21 @@
 # README_AI
 
-This is the README for AI agents.
 
-## Project overview
+## Rules for AI Agents
 
-This project is my homepage built with Jekyll.
+- Always ask before attempting to running a command
+- Never add/comment git changes, ask if you want to do so
+- Never add unecessary changes -- only add code that are necessary and relevant to the change requested. Never do code polishing/clean up unless being asked to do it.
+
+Before editing code:
+- Identify the relevant files.
+- Explain the change briefly.
+- Then propose edits.
+
 
 ## Project structure
+
+This project is my homepage build with Jekyll.
 
 - `_data/`: data for the project
 - `_includes/`: includes for the project
@@ -28,13 +37,3 @@ This project is my homepage built with Jekyll.
 - `Gemfile.lock`: gemfile.lock for the project
 - `README.md`: README for the project
 - `README_AI.md`: README for the AI agents
-
-## Rules for AI Agents
-
-- Always ask before attempting to running a command
-- Never add/comment git changes, ask if you want to do so
-
-Before editing code:
-- Identify the relevant files.
-- Explain the change briefly.
-- Then propose edits.
