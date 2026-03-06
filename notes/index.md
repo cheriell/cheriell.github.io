@@ -7,6 +7,6 @@ title: Notes
 
 Engineering:
 - [HPC in Wuerzburg](./HPC_Wuerzburg)
-- [Rules for AI Agents](./AGENTS)
+- [AI Code of Conduct](./AGENTS)
 
 
