@@ -16,7 +16,7 @@ title: CV of Failures
 ## PostDoc
 
 - Gave up learning German.
-- Paused piano lessons for almost one year.
+- Paused piano lesson for almost one year.
 - Paper rejected from ECML PKDD 2024, resubmission accepted to ICASSP 2025.
 
 ---
@@ -34,13 +34,14 @@ title: CV of Failures
 
 - Summary paper rejected from NIPS workshop.
 - Failed to catch the PhD application deadline in the first year.
+- Failed the module of Music Perception and Cognition.
 
 ---
 
 ## Undergrad
 
 - Failed to get first-class certificate at graduation.
-- Failed to get into the major I was in, later decided to change direction.
+- Realised over time that my undergraduate major was not the right fit for me.
 
 ---
 
