@@ -48,4 +48,4 @@ title: CV of Failures
 ## Early Years
 
 - Underperformed in the University Entry Exam and failed to get into my ideal university.
-- Quitted dance class due to social pressure.
+- Quitted dance class due to social isolation.
