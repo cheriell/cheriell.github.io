@@ -7,6 +7,5 @@ title: Notes
 
 Engineering:
 - [HPC in Wuerzburg](./HPC_Wuerzburg)
-- [AI Agent Guide](./AGENTS)
 
 
