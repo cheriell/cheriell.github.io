@@ -11,7 +11,7 @@ title: CV
 
 |                       | &nbsp;&nbsp;&nbsp;&nbsp; |       |
 |:--------------------- |:------------------------ |:----- |
-| 10.2023-Present       | | **Research Assistant / PostDoc** |
+| 10.2023-Present       | | **Research Assistant** |
 |                       | | University of Würzburg, Germany |
 | 10.2021-12.2021       | | **Research Internship** |
 |                       | | ByteDance, UK |
@@ -118,3 +118,4 @@ Journals
 - Transactions of the International Society for Music Information Retrieval (TISMIR)
 - PeerJ Computer Science
 - Computer Music Journal
+- Journal of New Music Research
