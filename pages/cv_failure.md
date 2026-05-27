@@ -15,7 +15,7 @@ title: CV of Failures
 
 ## PostDoc
 
-- Gave up learning German.
+- Temporarily gave up learning German.
 - Paused piano lesson for almost one year.
 - Paper rejected from ECML PKDD 2024, resubmission accepted to ICASSP 2025.
 
@@ -25,7 +25,7 @@ title: CV of Failures
 
 - Late submission of my PhD thesis, applied for extension.
 - Funding applidation rejected from EPSRC, second attempt got rejected again from the Leverhulme Trust.
-- Paper rejected from ISMIR 2023, and later decided to give up the research idea.
+- Paper rejected from ISMIR 2023, and later decided to stop with the research idea.
 - Application of the PhD Enrichment Scheme to the Alan Turing Institute got rejected, second attempt succeed in the following year.
 
 ---
