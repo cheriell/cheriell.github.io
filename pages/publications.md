@@ -41,6 +41,12 @@ title: Publications
 
 ---
 
+## Thesis
+
+- **Lele Liu**, "[Automatic Audio-to-Score Piano Transcription with Deep Neural Networks](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/127931/PhD_Thesis_Final_Lele.pdf?sequence=2&isAllowed=y)," PhD Thesis, Queen Mary University of London, 2026.
+
+---
+
 ## Preprints & Reports
 
 - Giovanni Bindi, Nils Demerlé, Rodrigo Diaz, David Genova, Aliénor Golvet, Ben Hayes, Jiawen Huang, **Lele Liu**, Vincent Martos, Sarah Nabi, Teresa Pelinski, Lenny Renault, Saurjya Sarkar, Pedro Sarmento, Cyrus Vahidi, Lewis Wolstanholme, Yixiao Zhang, Axel Roebel, Nick Bryan-Kinns, Jean-Louis Giavitto, Mathieu Barthet, "[AI (r)evolution--where are we heading? Thoughts about the future of music and sound technologies in the era of deep learning](https://arxiv.org/abs/2310.18320)," arXiv preprint arXiv:2310.18320, 2023.
