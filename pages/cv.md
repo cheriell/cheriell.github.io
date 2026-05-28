@@ -92,6 +92,8 @@ title: CV
 
 ## Services
 
+### Academic Events / Organisational
+
 |               | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:------------- |:------------------------- |:--- |
 | 2025-Present  | | **WIMIR Mentoring Program Organiser**, [WIMIR](https://ismir.net/wimir/), online |
@@ -103,7 +105,7 @@ title: CV
 
 ---
 
-## Peer Review
+### Reviewing
 
 Conferences/Workshops
 
