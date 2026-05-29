@@ -46,12 +46,10 @@ title: CV
 |       | | International Society for Music Information Retrieval Conference |
 | 2021  | | **Enrichment Scheme Award** |
 |       | | The Alan Turing Institute |
-| 2019-2023  | | **QMUL and CSC Joint PhD Scholarship** |
-|            | | Queen Mary University of London & China Scholarship Council |
-| 2017  | | **International Science and Engineering Excellence Award** |
-|       | | Queen Mary University of London |
-| 2016  | | **International Science and Engineering Excellence Award** |
-|       | | Queen Mary University of London |
+| 2019-2023    | | **QMUL and CSC Joint PhD Scholarship** |
+|              | | Queen Mary University of London & China Scholarship Council |
+| 2016 & 2017  | | **International Science and Engineering Excellence Award** |
+|              | | Queen Mary University of London |
 | 2015  | | **The First Class Scholarship** |
 |       | | Beijing University of Posts and Telecommunications |
 | 2014  | | **National Scholarship** |

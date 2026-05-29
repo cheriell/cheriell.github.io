@@ -19,7 +19,7 @@ Contact: lele.liu [at] uni-wuerzburg.de
 
 ## Introduction
 
-I am currently a postdoctoral researcher at the [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.caidas.uni-wuerzburg.de/), [University of Würzburg](https://www.uni-wuerzburg.de/), Germany. 
+I am a postdoctoral researcher at the [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.caidas.uni-wuerzburg.de/), [University of Würzburg](https://www.uni-wuerzburg.de/), Germany. 
 I am affiliated with both the [Computational Humanities (CH)](https://www.informatik.uni-wuerzburg.de/ch/) group led by [Prof. Christof Weiß](https://www.caidas.uni-wuerzburg.de/ch/team/christof-weiss/) and the [Natural Language Processing (WüNLP)](https://www.caidas.uni-wuerzburg.de/nlp/) group led by [Prof. Dr. Goran Glavaš](https://sites.google.com/view/goranglavas).
 
 My research lies at the intersection of **AI and music**, with a focus on building AI systems for **music understanding across modalities and diverse musical traditions, genres, and instruments**. As an active learner of piano performance, I am particularly interested in how advances in music understanding can support music learning and performance.
