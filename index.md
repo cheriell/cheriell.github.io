@@ -40,7 +40,7 @@ Beyond research, I am one of the organizers of the [WIMIR Mentoring Programme](h
 - May 26: PhD thesis published online
 - Jan 26: Paper accepted to MEC26
 
-- Nov 25: PhD thesis defence passed with minor corrections
+- Nov 25: PhD defence passed with minor corrections
 - Jul 25: Talk @ WIMIR Virtual Meetup
 - Jan 25: Papers accepted to TISMIR and ICASSP25
 
