@@ -32,7 +32,7 @@ Beyond research, I am one of the organizers of the [WIMIR Mentoring Programme](h
 
 ---
 
-## News
+## Latest News
 
 <!-- Publications, talks, awards, academic transitions, community service, grants, software/dataset release, recital  -->
 
