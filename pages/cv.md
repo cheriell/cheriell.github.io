@@ -96,12 +96,15 @@ title: CV
 
 |               | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:------------- |:------------------------- |:--- |
-| 2025-Present  | | **WIMIR Mentoring Program Organiser**, [WIMIR](https://ismir.net/wimir/), online |
-| 2024          | | **Online volunteer**, [ISMIR 2024 conference](https://ismir2024.ismir.net/), online |
+| 2025-Present  | | **WIMIR mentoring program organiser**, [WIMIR](https://ismir.net/wimir/), online |
 | 2021          | | **Lab showcase chair**, [ISMIR 2021 conference](https://ismir2021.ismir.net/), online |
 | 2020          | | **Workshop organiser**, [DMRN workshop](https://www.qmul.ac.uk/dmrn/dmrn15/), UK |
 | 2020-2023     | | **Student representative**, [AIM CDT](https://www.aim.qmul.ac.uk/), QMUL, UK |
 | 2019-2023     | | **Seminar organiser**, [C4DM seminars](https://www.youtube.com/playlist?list=PLpbLBawVNjQfSG1Z_C2l_SJYmlL9bfjLL), QMUL, UK |
+
+<!-- 
+| 2024          | | **Online volunteer**, [ISMIR 2024 conference](https://ismir2024.ismir.net/), online | 
+-->
 
 ---
 
