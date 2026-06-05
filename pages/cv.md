@@ -74,16 +74,18 @@ title: CV
 
 |           | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:--------- |:------------------------- |:--- |
-| 07.2024   | | **Stimulus talk -- Dual-domain beat tracking** |
-|           | | **Stimulus talk -- Learning from multiple versions of music** |
-|           | | **Panel talk -- Cultural differences in education systems** |
-|           | | **Panel talk -- Cultivating expertise: Sustainable approaches to learning and research in MIR** |
+| 06.2026   | | **Beyond papers: My missing curriculum** |
+|           | | [WIMIR Virtual Meetup 2026](https://wimir.wordpress.com/) |
+| 07.2025   | | **My learnings during the PhD** |
+|           | | [WIMIR Virtual Meetup 2025](https://wimir.wordpress.com/) |
+| 07.2024   | | **Dual-domain beat tracking**; **Learning from multiple versions of music** |
+|           | | **Cultural differences in education systems**; **Cultivating expertise: Sustainable approaches to learning and research in MIR** (panel talks) |
 |           | | [Dagstuhl seminar: Learning with Music Signals: Technology Meets Education](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24302), Germany |
 | 05.2023   | | **Sequence modelling for audio-to-score music transcription** |
 |           | | [Sequences in London Workshop](https://sites.google.com/view/sequencesworkshop/home), UK |
 | 03.2023   | | **From audio to music notation: Transcribing music recordings into readable scores** |
 |           | | Research visit at University of Alicante, Spain |
-| 12.2023   | | **Panel talk -- Special session of PhD in MIR: Challenges and opportunities** |
+| 12.2023   | | **Special session of PhD in MIR: Challenges and opportunities** (panel talk) |
 |           | | [ISMIR 2023 conference](https://ismir2023.ismir.net/), online |
 
 ---
