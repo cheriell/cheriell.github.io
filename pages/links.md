@@ -15,7 +15,7 @@ title: Links
 
 ---
 
-## Trace
+## Present and Past Affiliations
 
 **Research assistant / PostDoc** at [University of Würzburg](https://www.uni-wuerzburg.de/), Würzburg, Germany
 - _Supervisors_: [Prof. Dr. Christof Weiß](https://www.caidas.uni-wuerzburg.de/ch/team/christof-weiss/) and [Prof. Dr. Goran Glavaš](https://sites.google.com/view/goranglavas)
