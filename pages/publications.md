@@ -23,7 +23,7 @@ title: Publications
 
 ## Conference & Workshop Papers
 
-- Hanwen Zhang, **Lele Liu** and Ichiro Fujigana, "A context-aware piano performance encoding framework for sustain pedaling," accepted to Music Encoding Conference, May 2026. 
+- Hanwen Zhang, **Lele Liu** and Ichiro Fujigana, "[A context-aware piano performance encoding framework for sustain pedaling](https://drive.google.com/file/d/1gktSVtB_2BCUct1JVQeITEVYgEqMcmgH/view)," in Music Encoding Conference, May 2026.
 
 - **Lele Liu** and Christof Weiß, "[Unsupervised domain adaptation for music transcription: Exploiting cross-version consistency](https://ieeexplore.ieee.org/document/10889474)," in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), April 2025.
 
