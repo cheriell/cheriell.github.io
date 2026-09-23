@@ -24,8 +24,9 @@ title: CV
 
 |                   | &nbsp;&nbsp;&nbsp;&nbsp;  |       |
 |:----------------- |:------------------------- |:----- |
-| 09.2019-09.2025   | | **PhD in Artificial Intelligence and Music** |
+| 09.2019-05.2026   | | **PhD in Artificial Intelligence and Music** |
 |                   | | Queen Mary University of London, UK |
+|                   | | *Remote write-up since 2023, PhD defense in 2025, Awarded in 2026.*
 | 01.2022-12.2022   | | **Enrichment Scheme PhD Student** |
 |                   | | The Alan Turing Institutem, UK |
 | 09.2017-09.2018   | | **MSc in Sound and Music Computing** |
