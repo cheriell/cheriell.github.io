@@ -26,11 +26,12 @@ title: CV
 |:----------------- |:------------------------- |:----- |
 | 09.2019-05.2026   | | **PhD in Artificial Intelligence and Music** |
 |                   | | Queen Mary University of London, UK |
-|                   | | *Remote write-up since 2023, PhD defense in 2025, Awarded in 2026.*
+|                   | | *Remote write-up since 2023, PhD defense in 2025, Awarded in 2026.* |
 | 01.2022-12.2022   | | **Enrichment Scheme PhD Student** |
 |                   | | The Alan Turing Institutem, UK |
 | 09.2017-09.2018   | | **MSc in Sound and Music Computing** |
 |                   | | Queen Mary University of London, UK |
+|                   | | *Distinction* |
 | 09.2013-06.2017   | | **BSc in Telecommunications Engineering with Management** |
 |                   | | Beijing University of Posts and Telecommunications, China & |
 |                   | | Queen Mary University of London, UK |
@@ -91,9 +92,9 @@ title: CV
 
 ---
 
-## Services
+## Academic Services
 
-### Academic Events / Organisational
+### Events
 
 |               | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:------------- |:------------------------- |:--- |
@@ -109,9 +110,9 @@ title: CV
 
 ---
 
-### Reviewing
+### Peer Review
 
-Conferences/Workshops
+Conferences/Workshops:
 
 - International Society for Music Information Retrieval (ISMIR) Conference
 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
@@ -119,7 +120,7 @@ Conferences/Workshops
 - International Joint Conference on Neural Networks (IJCNN)
 - Workshop on Large Language Models for Music & Audio (LLM4MA) @ ISMIR Satellite Workshops
 
-Journals
+Journals:
 
 - Transactions of the International Society for Music Information Retrieval (TISMIR)
 - PeerJ Computer Science
