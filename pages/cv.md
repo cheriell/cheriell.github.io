@@ -11,7 +11,7 @@ title: CV
 
 |                       | &nbsp;&nbsp;&nbsp;&nbsp; |       |
 |:--------------------- |:------------------------ |:----- |
-| 10.2023-Present       | | **Research Assistant / PostDoc** |
+| 10.2023-Present       | | **PostDoc / Research Assistant** |
 |                       | | University of Würzburg, Germany |
 | 10.2021-12.2021       | | **Research Internship** |
 |                       | | ByteDance, UK |
