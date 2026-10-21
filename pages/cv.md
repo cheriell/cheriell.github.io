@@ -124,6 +124,7 @@ Conferences/Workshops:
 Journals:
 
 - Transactions of the International Society for Music Information Retrieval (TISMIR)
-- PeerJ Computer Science
-- Computer Music Journal
 - Journal of New Music Research
+- IEEE Open Journal of Signal Processing
+- Computer Music Journal
+- PeerJ Computer Science
