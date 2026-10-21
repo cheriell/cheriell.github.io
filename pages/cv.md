@@ -98,6 +98,7 @@ title: CV
 
 |               | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:------------- |:------------------------- |:--- |
+| 2026          | | **Session Chair**, [ICCCM](https://www.uni-wuerzburg.de/en/zpd/events/icccm-2026/), Germany |
 | 2025-Present  | | **WIMIR mentoring program organiser**, [WIMIR](https://ismir.net/wimir/), online |
 | 2021          | | **Lab showcase chair**, [ISMIR 2021 conference](https://ismir2021.ismir.net/), online |
 | 2020          | | **Workshop organiser**, [DMRN workshop](https://www.qmul.ac.uk/dmrn/dmrn15/), UK |

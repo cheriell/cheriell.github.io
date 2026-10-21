@@ -36,6 +36,7 @@ Beyond research, I am one of the organizers of the [WIMIR Mentoring Programme](h
 
 <!-- Publications, talks, awards, academic transitions, community service, grants, software/dataset release, recital  -->
 
+- Sep 26: Poster presentation @ ICCCM'26
 - Jun 26: Talk @ WIMIR Virtual Meetup
 - May 26: PhD thesis published online
 - Jan 26: Paper accepted to MEC'26
