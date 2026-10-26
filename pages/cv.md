@@ -16,7 +16,7 @@ title: CV
 | 10.2021-12.2021       | | **Research Internship** |
 |                       | | ByteDance, UK |
 | 10.2018-06.2019       | | **Web Engineer** |
-|                       | | Winery Group, China |
+|                       | | Wenhua Group, China |
 
 ---
 
