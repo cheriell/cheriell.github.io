@@ -11,13 +11,13 @@ title: Teaching
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;  |   |
 |:------------- |:------------------------- |:----- |
-| Summer 2026   | | **Lecture: Music Information Retrieval** (MSc & MA), JMU Würzburg (co-lecturer) |
-| Winter 2025   | | **Seminar: Music Processing** (MSc & MA), JMU Würzburg (co-lecturer) |
-| Summer 2025   | | **Lecture: Music Information Retrieval** (MSc & MA), JMU Würzburg (co-lecturer) |
-| Winter 2024   | | **Seminar: Music Processing** (MSc & MA), JMU Würzburg (co-lecturer) |
-| Summer 2024   | | **Lecture: Music Information Retrieval** (MSc & MA), JMU Würzburg (co-lecturer) |
-| Winter 2023   | | **Seminar: Music Processing** (MSc & MA), JMU Würzburg (co-lecturer) |
-|               | | **Seminar: Music Transcription** (MSc & MA), JMU Würzburg (co-lecturer) |
+| Summer 2026   | | **Lecture: Music Information Retrieval** (MSc & MA), JMU Würzburg (lecturer) |
+| Winter 2025   | | **Seminar: Music Processing** (MSc & MA), JMU Würzburg (lecturer) |
+| Summer 2025   | | **Lecture: Music Information Retrieval** (MSc & MA), JMU Würzburg (lecturer) |
+| Winter 2024   | | **Seminar: Music Processing** (MSc & MA), JMU Würzburg (lecturer) |
+| Summer 2024   | | **Lecture: Music Information Retrieval** (MSc & MA), JMU Würzburg (lecturer) |
+| Winter 2023   | | **Seminar: Music Processing** (MSc & MA), JMU Würzburg (lecturer) |
+|               | | **Seminar: Music Transcription** (MSc & MA), JMU Würzburg (course designer) |
 | |
 | Spring 2023   | | **Music Informatics** (MSc), Queen Mary University of London (teaching assistant) |
 | Fall 2022     | | **Professional and Research Practice** (MSc), Queen Mary University of London (teaching assistant) |
