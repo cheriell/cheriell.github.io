@@ -38,11 +38,11 @@ title: CV
 
 ---
 
-## Awards, Scholarships & Fundings
+## Awards, Scholarships & Grants
 
 |       | &nbsp;&nbsp;&nbsp;&nbsp;  |     |
 |:----- |:------------------------- |:--- |
-| 2023  | | **International Research Visitor Fund** |
+| 2023  | | **International Research Visitor Grant** |
 |       | | University of Alicante |
 | 2022  | | **Best Paper Award** |
 |       | | International Society for Music Information Retrieval Conference |
@@ -65,7 +65,7 @@ title: CV
 |:--------- |:------------------------- |:--- |
 | 11.2023   | | **International Audio Laboratories Erlangen (AudioLabs)**, Germany |
 |           | | Host: [Prof. Meinard Müller](https://www.audiolabs-erlangen.de/fau/professor/mueller) |
-| 03.2023   | | **Grupo de Reconocimiento de Formas e Inteligencia Artificia**, University of Alicante, Spain |
+| 03.2023   | | **Pattern Recognition and Artificial Intelligence Group (PRAIG)**, University of Alicante, Spain |
 |           | | Host: [Dr. José Javier Valero Mas](https://cvnet.cpd.ua.es/curriculum-breve/es/valero-mas-jose-javier/13771) and [Prof. Jorge Calvo-Zaragoza](https://www.dlsi.ua.es/~jcalvo/) |
 | 02.2023   | | **Institute for Research and Coordination in Acoustics/Music (IRCAM)**, France |
 |           | | Group visit as a PhD student in AIM CDT |
