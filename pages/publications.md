@@ -27,9 +27,9 @@ title: Publications
 
 - **Lele Liu** and Christof Weiß, "[Unsupervised domain adaptation for music transcription: Exploiting cross-version consistency](https://ieeexplore.ieee.org/document/10889474)," in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), April 2025.
 
-- **Lele Liu** and Christof Weiß, "[Utilizing cross-version consistency for domain adaptation: A case study on music audio](https://openreview.net/forum?id=ZNg3YQQKWT)," in Tiny Papers Track at International Conference on Learning Representations (Tiny Papers @ ICLR 2024), May 2024. **Notable (oral)**
+- **Lele Liu** and Christof Weiß, "[Utilizing cross-version consistency for domain adaptation: A case study on music audio](https://openreview.net/forum?id=ZNg3YQQKWT)," in Tiny Papers Track at International Conference on Learning Representations (Tiny Papers @ ICLR 2024), May 2024. **Notable Paper (oral presentation)**
 
-- **Lele Liu**, Qiuqiang Kong, Veronica Morfi and Emmanouil Benetos, "[Performance MIDI-to-score conversion by neural beat tracking](https://www.turing.ac.uk/sites/default/files/2022-09/midi_quantisation_paper_ismir_2022_0.pdf)," in proceedings of the International Society for Music Information Retrieval (ISMIR) Conference, Bengaluru, India, Dec 2022. **Best paper award**
+- **Lele Liu**, Qiuqiang Kong, Veronica Morfi and Emmanouil Benetos, "[Performance MIDI-to-score conversion by neural beat tracking](https://www.turing.ac.uk/sites/default/files/2022-09/midi_quantisation_paper_ismir_2022_0.pdf)," in proceedings of the International Society for Music Information Retrieval (ISMIR) Conference, Bengaluru, India, Dec 2022. **Best Paper Award**
 
 - **Lele Liu**, Veronica Morfi and Emmanouil Benetos, "[ACPAS: A Dataset of aligned classical piano audio and scores for audio-to-score transcription](https://archives.ismir.net/ismir2021/latebreaking/000013.pdf)," in International Society for Music Information Retrieval Conference Late-Breaking Demos Session (ISMIR-LBD), Nov 2021.
 
